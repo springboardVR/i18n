@@ -82,7 +82,6 @@
   "player@example.com": "player@example.com",
   "123-456-7890": "123-456-7890",
   "Add Station": "Add Station",
-  "Date": "Date",
 
   "_COMMENT": "MONITOR SETTINGS",
 
@@ -125,5 +124,34 @@
   "A date is required": "A date is required",
   "Please provide a validate date": "Please provide a validate date",
   "Missing required fields": "Missing required fields",
-  "has an upcoming booking that conflicts with this extension": "has an upcoming booking that conflicts with this extension"
+  "has an upcoming booking that conflicts with this extension": "has an upcoming booking that conflicts with this extension",
+
+  "_COMMENT": "API EMAILS",
+
+  ":organization_name Booking Cancelled": ":organization_name Booking Cancelled",
+  ":organization_name New Booking": ":organization_name New Booking",
+  ":organization_name Booking Updated": ":organization_name Booking Updated",
+  "Your booking with :organization_name has been cancelled.": "Your booking with :organization_name has been cancelled.",
+  "Thanks for your booking with :organization_name on :time.": "Thanks for your booking with :organization_name on :time.",
+  "Your booking with :organization_name has been updated.": "Your booking with :organization_name has been updated.",
+  "due to :reason": "due to :reason",
+  "You are able to contact :organization_name with the following information": "You are able to contact :organization_name with the following information",
+  "Email": "Email",
+  "Phone": "Phone",
+  "Booking Information": "Booking Information",
+  "Date": "Date",
+  "Start Time": "Start Time",
+  "End Time": "End Time",
+  "Players": "Players",
+  "Stations": "Stations",
+  "Amount Paid": "Amount Paid",
+  "Amount Owed": "Amount Owed",
+  "Customer Information": "Customer Information",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Thanks": "Thanks",
+  "All rights reserved": "All rights reserved",
+  "Late Policy": "Late Policy",
+  "Refund Policy": "Refund Policy",
+  "Cancel Booking": "Cancel Booking"
 }
