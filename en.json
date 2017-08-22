@@ -25,7 +25,7 @@
 
   "_COMMENT": "MONITOR|BOOKING SCHEDULER",
 
-   "Auto-Select Stations": "Auto-Select Stations",
+  "Auto-Select Stations": "Auto-Select Stations",
   "Uh oh. Looks like your widget is invalid.": "Uh oh. Looks like your widget is invalid.",
   "terms of service": "terms of service",
   "privacy policy": "privacy policy",
@@ -79,6 +79,10 @@
   "This will cancel your booking.": "This will cancel your booking.",
   "You will recieve a full refund.": "You will recieve a full refund.",
   "You are not eligible to recieve a refund for this booking": "You are not eligible to recieve a refund for this booking",
+  "player@example.com": "player@example.com",
+  "123-456-7890": "123-456-7890",
+  "Add Station": "Add Station",
+  "Date": "Date",
 
   "_COMMENT": "MONITOR SETTINGS",
 
@@ -102,6 +106,7 @@
   "Last Call For Help": "Last Call For Help",
   "Total Extension": "Total Extension",
   "minute": "minute | minutes",
+  "Minute": "Minute | Minutes",
   "Start": "Start",
   "Extend": "Extend",
   "Charged Extend": "Charged Extend",
