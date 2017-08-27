@@ -153,5 +153,36 @@
   "All rights reserved": "All rights reserved",
   "Late Policy": "Late Policy",
   "Refund Policy": "Refund Policy",
-  "Cancel Booking": "Cancel Booking"
+  "Cancel Booking": "Cancel Booking",
+
+  "_COMMENT": "BACKGROUND SERVICE",
+
+  "Change Game": "Change Game",
+  "Return to Game": "Return to Game",
+  "Return to Game Selection": "Return to Game Selection",
+  "Multiplayer Games": "Multiplayer Games",
+  "Join": "Join",
+  "Select a game tile to join that player's game": "Select a game tile to join that player's game",
+  "Your Party": "Your Party",
+  "Invite Others to Join You": "Invite Others to Join You",
+  "Invite": "Invite",
+  "Game Controls": "Game Controls",
+  "Launching :game": "Launching :game",
+  "Time's almost up!\n:minutes minutes remaining.": "Time's almost up!\n:minutes minutes remaining.",
+
+  "_COMMENT": "LAUNCHER",
+
+  "Filters": "Filters",
+  "Show all filters": "Show All",
+  "No games found using the selected filters": "No games found using the selected filters",
+  "Previous page": "Prev",
+  "Next Page": "Next",
+  "Time Remaining": "Time Remaining",
+  "Time's Up!": "Time's Up!",
+  "Call for Help": "Call Help",
+  "Help is on the way": "Help is on the way",
+  "Extend Time": "Add Time",
+  "Extend on the way": "Someone will be along shortly to extend your time",
+  "Launch Game": "Launch",
+  "Close Details": "Back"
 }
