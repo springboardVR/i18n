@@ -38,7 +38,7 @@
   "Length of Booking": "Length of Booking",
   "per station": "per station",
   "Number of Stations (VR Headsets)": "Number of Stations (VR Headsets)",
-  "We can accomodate up to {0} people per station, and up to {1} stations max": "We can accomodate up to {0} people per station, and up to {1} stations max",
+  "We can accommodate up to {0} people per station, and up to {1} stations max": "We can accommodate up to {0} people per station, and up to {1} stations max",
   "Time of Booking": "Time of Booking",
   "Please charge the customer": "Please charge the customer",
   "Please charge the customer {0} before proceeding.": "Please charge the customer {0} before proceeding.",
@@ -77,8 +77,8 @@
   "Sorry, looks like this booking doesn't exist.": "Sorry, looks like this booking doesn't exist.",
   "The booking has been cancelled.": "The booking has been cancelled.",
   "This will cancel your booking.": "This will cancel your booking.",
-  "You will recieve a full refund.": "You will recieve a full refund.",
-  "You are not eligible to recieve a refund for this booking": "You are not eligible to recieve a refund for this booking",
+  "You will receive a full refund.": "You will receive a full refund.",
+  "You are not eligible to receive a refund for this booking": "You are not eligible to receive a refund for this booking",
   "player@example.com": "player@example.com",
   "123-456-7890": "123-456-7890",
   "Add Station": "Add Station",
@@ -115,7 +115,7 @@
   "Complimentary Extend": "Complimentary Extend",
   "Custom": "Custom",
   "Extend Time": "Extend Time",
-  "Station Needs Assitance": "Station Needs Assitance",
+  "Station Needs Assistance": "Station Needs Assistance",
 
   "_COMMENT": "API ERRORS",
 
