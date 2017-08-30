@@ -204,6 +204,15 @@
   "Extend Time": "Extend Time",
   "Station Needs Assistance": "Station Needs Assistance",
 
+  "_COMMENT": "MONITOR CALENDAR",
+
+  "Today": "Today",
+  "Bookings": "Booking | Bookings",
+  "hour": "hour | hours",
+  "minute": "minute | minutes",
+  "Day": "Day",
+  "Week": "Week",
+
   "_COMMENT": "API ERRORS",
 
   "Your login details are invalid": "Your login details are invalid",
