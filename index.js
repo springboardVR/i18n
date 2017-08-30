@@ -1,8 +1,5 @@
 import enUs from './en_us.json';
-// Our ESLint doesn't like snake_case, but browsers report in snake_case so just use camelCase for
-// the import
 
-/* eslint-disable */
 /**
  * An example of how different browsers report languages for english:
  *
@@ -14,5 +11,5 @@ import enUs from './en_us.json';
 export default {
   'en-US': enUs,
   'en-us': enUs,
-  'en': enUS
+  'en': enUs
 };
