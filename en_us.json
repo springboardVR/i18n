@@ -282,5 +282,7 @@
   "Extend Time": "Add Time",
   "Extend on the way": "Someone will be along shortly to extend your time",
   "Launch Game": "Launch",
-  "Close Details": "Back"
+  "Close Details": "Back",
+  "No games you can join are currently being played by other people in your booking": "No games you can join are currently being played by other people in your booking",
+  "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade"
 }
