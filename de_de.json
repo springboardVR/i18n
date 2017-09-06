@@ -6,8 +6,8 @@
 
   "_COMMENT": "STOCK LARAVEL PAGINATION",
 
-  "pagination.previous": "&laquo; Previous",
-  "pagination.next": "Next &raquo;",
+  "pagination.previous": "&laquo; Zurück",
+  "pagination.next": "Vor &raquo;",
 
   "_COMMENT": "STOCK LARAVEL PASSWORDS",
 
