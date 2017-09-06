@@ -282,5 +282,7 @@
   "Extend Time": "Zeit hinzufügen",
   "Extend on the way": "Jemand wird gleich kommen um Deine Zeit zu verlängern",
   "Launch Game": "Starten",
-  "Close Details": "Zurück"
+  "Close Details": "Zurück",
+  "No games you can join are currently being played by other people in your booking": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit von anderen Spielern aus deiner Reservierung gespielt",
+  "No games you can join are currently being played in this arcade": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit in diesem Arcade gespielt"
 }
