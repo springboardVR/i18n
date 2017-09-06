@@ -6,8 +6,8 @@
 
   "_COMMENT": "STOCK LARAVEL PAGINATION",
 
-  "pagination.previous": "&laquo; Previous",
-  "pagination.next": "Next &raquo;",
+  "pagination.previous": "&laquo; Zurück",
+  "pagination.next": "Vor &raquo;",
 
   "_COMMENT": "STOCK LARAVEL PASSWORDS",
 
@@ -273,8 +273,8 @@
   "No games found using the selected filters": "Keine Spiele mit den ausgewählten Filtern gefunden",
   "Loading": "Lade",
   "Page": "Seite",
-  "Previous page": "Vorherige",
-  "Next Page": "Nächste",
+  "Previous page": "Zurück",
+  "Next Page": "Vor",
   "Time Remaining": "Verbleibende Zeit",
   "Time's Up!": "Zeit vorbei!",
   "Call for Help": "Hilfe rufen",
