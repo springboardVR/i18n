@@ -264,7 +264,7 @@
   "Invite": "Einladen",
   "Game Controls": "Spielsteuerung",
   "Launching :game": "Starte :game",
-  "Time's almost up!\n:minutes minutes remaining.": "Zeit fast vorbei!\n:minutes Minuten verbleiben.",
+  "Time's almost up!\n:minutes::seconds minutes remaining.": "Zeit fast vorbei!\n:minutes::seconds Minuten verbleiben.",
 
   "_COMMENT": "LAUNCHER",
 
