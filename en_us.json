@@ -264,7 +264,7 @@
   "Invite": "Invite",
   "Game Controls": "Game Controls",
   "Launching :game": "Launching :game",
-  "Time's almost up!\n:minutes minutes remaining.": "Time's almost up!\n:minutes minutes remaining.",
+  "Time's almost up!\n:minutes::seconds minutes remaining.": "Time's almost up!\n:minutes::seconds minutes remaining.",
 
   "_COMMENT": "LAUNCHER",
 
