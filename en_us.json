@@ -284,5 +284,30 @@
   "Launch Game": "Launch",
   "Close Details": "Back",
   "No games you can join are currently being played by other people in your booking": "No games you can join are currently being played by other people in your booking",
-  "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade"
+  "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade",
+
+  "_COMMENT": "NOTIFICATIONS",
+  ":name Booking Cancelled": ":name Booking Cancelled",
+  ":name New Booking": ":name New Booking",
+  ":name Booking Updated": ":name Booking Updated",
+  "A SpringboardVR Update is Available: :version": "A SpringboardVR Update is Available: :version",
+  "Hello :name": "Hello :name",
+  "We have released an update to the SpringboardVR launcher! You can auto-update your stations via the button below, though as always we recommend reading the <a href=\":url\">Release Notes</a> before doing so!": "We have released an update to the SpringboardVR launcher! You can auto-update your stations via the button below, though as always we recommend reading the <a href=\":url\">Release Notes</a> before doing so!",
+  "Go to Station Manager": "Go to Station Manager",
+  "Thank you for using SpringboardVR!": "Thank you for using SpringboardVR!",
+  "New Release": "New Release",
+  "We have released a new update: :version": "We have released a new update: :version",
+  "Thanks for signing up to SpringboardVR! You're one step closer to using our commercial licensing program.": "Thanks for signing up to SpringboardVR! You're one step closer to using our commercial licensing program.",
+  "Thanks for signing up to SpringboardVR, you're one step closer to simplifying the management of your arcade!": "Thanks for signing up to SpringboardVR, you're one step closer to simplifying the management of your arcade!",
+  "Before you can login, please verify your account using the button below:": "Before you can login, please verify your account using the button below:",
+  "Verify Account": "Verify Account",
+  "Thank you for choosing SpringboardVR!": "Thank you for choosing SpringboardVR!",
+  "Video Converted": "Video Converted",
+  "The video conversion for :title has completed successfully": "The video conversion for :title has completed successfully",
+  "Video Conversion Failed for :title": "Video Conversion Failed for :title",
+  "Error": "Error",
+  "The video conversion for :title did not complete successfully. Please try again.": "The video conversion for :title did not complete successfully. Please try again.",
+
+
+
 }
