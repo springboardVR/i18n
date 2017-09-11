@@ -287,6 +287,5 @@
   "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade",
 
   "_COMMENT": "BOOKINGSETTINGS MESSAGES",
-  "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment.": "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment.",
-
+  "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment.": "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment."
 }
