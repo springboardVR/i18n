@@ -306,8 +306,5 @@
   "The video conversion for :title has completed successfully": "The video conversion for :title has completed successfully",
   "Video Conversion Failed for :title": "Video Conversion Failed for :title",
   "Error": "Error",
-  "The video conversion for :title did not complete successfully. Please try again.": "The video conversion for :title did not complete successfully. Please try again.",
-
-
-
+  "The video conversion for :title did not complete successfully. Please try again.": "The video conversion for :title did not complete successfully. Please try again."
 }
