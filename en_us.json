@@ -293,7 +293,6 @@
   "_COMMENT": "ABORT OAUTHCONTROLLER.PHP",
   "This OAuth Provider doesn't exist": "This OAuth Provider doesn't exist",
   "Your Oauth State is Invalid": "Your Oauth State is Invalid",
-  "This OAuth Provider doesn't exist": "This OAuth Provider doesn't exist",
 
   "_COMMENT": "ABORT UPDATERCONTROLLER.PHP",
   "We don't have an updater build online right now, please try again in a little while": "We don't have an updater build online right now, please try again in a little while",
