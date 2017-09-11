@@ -429,7 +429,7 @@
   "_COMMENT": "ABORT STATION.PHP",
   "Station not found": "Station not found",
   "Subscription has expired": "Subscription has expired",
-  "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.": "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.",
+  "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.": "There are bookings that we can't reallocate off of :name. You must manually reallocate these bookings.",
 
   "_COMMENT": "ABORT USER.PHP",
   "No organisation set for user!": "No organisation set for user!",
