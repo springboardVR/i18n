@@ -287,6 +287,17 @@
   "No games you can join are currently being played by other people in your booking": "No games you can join are currently being played by other people in your booking",
   "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade",
 
+  "_COMMENT": "ORGANISATION NOTIFY",
+  "Thanks for subscribing!": "Thanks for subscribing!",
+  "Your card details have been saved and your subscription is ready. You will be charged at the end of your trial period on :trial_ends_at and can increase the number of stations on your subscription from the billing details view.<br><br><a href=\":invoice_url\">here</a> to view your upcoming invoices.": "Your card details have been saved and your subscription is ready. You will be charged at the end of your trial period on :trial_ends_at and can increase the number of stations on your subscription from the billing details view.<br><br><a href=\":invoice_url\">here</a> to view your upcoming invoices.",
+  "We have successfully updated your billing details, which will now be used for all future payments.": "We have successfully updated your billing details, which will now be used for all future payments.",
+  "Your Billing Details have been updated": "Your Billing Details have been updated",
+  "You have a new invoice": "You have a new invoice",
+  "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.": "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.",
+  "3 Day Trial Expiration Notice": "3 Day Trial Expiration Notice",
+  "Hey :name,<br><br>Sending you a quick reminder because I saw your trial is expiring in the next 3 days. To continue using our software, please take a minute to input your billing information in the admin panel. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": "Hey :name,<br><br>Sending you a quick reminder because I saw your trial is expiring in the next 3 days. To continue using our software, please take a minute to input your billing information in the admin panel. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!",
+  "Hey :name,<br><br>Sending you a quick reminder that your credit card will be charged in 3 days. No action needs to be taken on your end, this is just a reminder. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": "Hey :name,<br><br>Sending you a quick reminder that your credit card will be charged in 3 days. No action needs to be taken on your end, this is just a reminder. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!",
+
   "_COMMENT": "NOTIFICATIONS",
   ":name Booking Cancelled": ":name Booking Cancelled",
   ":name New Booking": ":name New Booking",

@@ -287,6 +287,17 @@
   "No games you can join are currently being played by other people in your booking": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit von anderen Spielern aus deiner Reservierung gespielt",
   "No games you can join are currently being played in this arcade": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit in diesem Arcade gespielt",
 
+  "_COMMENT": "ORGANISATION NOTIFY",
+  "Thanks for subscribing!": "Danke für Ihr Abonnement!",
+  "Your card details have been saved and your subscription is ready. You will be charged at the end of your trial period on :trial_ends_at and can increase the number of stations on your subscription from the billing details view.<br><br><a href=\":invoice_url\">here</a> to view your upcoming invoices.": "Ihre Kartendaten wurden gespeichert und Ihr Abonnement ist bereit. Ihre Zahlungsinformationen werden am Ende des Testzeitraums am :trial_ends_at belastet und Sie können dann die Anzahl der Stationen in Ihrem Abonnement über die Zahlungsinformationsansicht erhöhen.<br><br>Klicken Sie <a href=\":invoice_url\">hier</a> um Ihre bevorstehenden Rechnungen zu sehen.",
+  "We have successfully updated your billing details, which will now be used for all future payments.": "Wir haben Ihre Zahlungsinformationen erfolgreich aktualisiert, die jetzt für alle zukünftigen Zahlungen verwendet werden.",
+  "Your Billing Details have been updated": "Ihre Zahlungsinformationen wurden aktualisiert",
+  "You have a new invoice": "Sie haben eine neue Rechnung",
+  "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.": "Ihre letzte Rechnung ist jetzt <a href=\":invoice_url\">hier</a> zur Ansicht verfügbar. Wir werden versuchen Ihre Karte automatisch für eventuell offene Beträge zu belasten und benachrichtigen Sie, falls die Zahlung nicht erfolgreich ist.",
+  "3 Day Trial Expiration Notice": "3-Tage-Ablaufbenachrichtigung der Probezeit",
+  "Hey :name,<br><br>Sending you a quick reminder because I saw your trial is expiring in the next 3 days. To continue using our software, please take a minute to input your billing information in the admin panel. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": "Hallo :name,<br><br>Ich sende Ihnen eine kurze Erinnerung, da ich gesehen habe, dass Ihre Probezeit in den nächsten 3 Tagen abläuft. Bitte nehmen Sie sich einen Moment Zeit, um Ihre Zahlungsinformationen im Admin-Panel zu hinterlegen, damit Sie unsere Software weiterhin benutzen können. Lassen Sie uns wissen, falls Sie Fragen haben oder weitere Hilfe benötigen.<br>Danke, dass Sie sich für springboardVR entschieden haben!",
+  "Hey :name,<br><br>Sending you a quick reminder that your credit card will be charged in 3 days. No action needs to be taken on your end, this is just a reminder. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": "Hallo :name,<br><br>>Ich sende Ihnen eine kurze Erinnerung, dass Ihre Kreditkarte in 3 Tagen belastet wird. Sie müssen nichts weiter tun, dies ist nur eine Erinnerung. Lassen Sie uns wissen, falls Sie Fragen haben oder weitere Hilfe benötigen.<br>Danke, dass Sie sich für springboardVR entschieden haben!",
+
   "_COMMENT": "NOTIFICATIONS",
   ":name Booking Cancelled": ":name Reservierung storniert",
   ":name New Booking": ":name Neue Reservierung",
