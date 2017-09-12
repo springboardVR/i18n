@@ -285,5 +285,173 @@
   "Launch Game": "Launch",
   "Close Details": "Back",
   "No games you can join are currently being played by other people in your booking": "No games you can join are currently being played by other people in your booking",
-  "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade"
+  "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade",
+
+  "_COMMENT": "ABORT BUILDCONTROLLER.PHP",
+  "Build not found": "Build not found",
+  "Build not published": "Build not published",
+
+  "_COMMENT": "ABORT OAUTHCONTROLLER.PHP",
+  "This OAuth Provider doesn't exist": "This OAuth Provider doesn't exist",
+  "Your Oauth State is Invalid": "Your Oauth State is Invalid",
+
+  "_COMMENT": "ABORT UPDATERCONTROLLER.PHP",
+  "We don't have an updater build online right now, please try again in a little while": "We don't have an updater build online right now, please try again in a little while",
+  "This organisation has no users with access to all locations to use the link details of": "This organisation has no users with access to all locations to use the link details of",
+
+  "_COMMENT": "ABORT BUILDCONTROLLER.PHP",
+  "Invalid File Path": "Invalid File Path",
+
+  "_COMMENT": "ABORT CATEGORYCONTROLLER.PHP",
+  "Category could not be found": "Category could not be found",
+  "Please remove all games from this category before deleting it.": "Please remove all games from this category before deleting it.",
+
+  "_COMMENT": "ABORT DOCUMENTCONTROLLER.PHP",
+  "Resource not found": "Resource not found",
+
+  "_COMMENT": "ABORT EARLYACCESSCONTROLLER.PHP",
+  "Please login to an organisation": "Please login to an organisation",
+  "Failed to opt-in to feature": "Failed to opt-in to feature",
+  "Failed to opt-out of feature": "Failed to opt-out of feature",
+
+  "_COMMENT": "ABORT GAMECONTROLLER.PHP",
+  "Game not found": "Game not found",
+  "Could not find game": "Could not find game",
+  "Category not found": "Category not found",
+  "Game could not be found": "Game could not be found",
+  "Preset could not be found": "Preset could not be found",
+  "Invalid Image Path": "Invalid Image Path",
+  "Invalid Video Path": "Invalid Video Path",
+
+  "_COMMENT": "ABORT LOCATIONCONTROLLER.PHP",
+  "Location not found": "Location not found",
+  "Invalid Logo Path": "Invalid Logo Path",
+  "Please remove all stations from this location before deleting it.": "Please remove all stations from this location before deleting it.",
+
+  "_COMMENT": "ABORT MANUALNOTIFICATIONCONTROLLER.PHP",
+  "Notification not found": "Notification not found",
+  "You cannot delete a notification that has already been sent!": "You cannot delete a notification that has already been sent!",
+
+  "_COMMENT": "ABORT MONITORCONTROLLER.PHP",
+  "Location could not be found, or you do not have permission to access it": "Location could not be found, or you do not have permission to access it",
+
+  "_COMMENT": "ABORT ORGANISATIONCONTROLLER.PHP",
+  "Organisation not found": "Organisation not found",
+  "Please modify the station limit of this organization via their billing details view, they are already setup on Stripe!": "Please modify the station limit of this organization via their billing details view, they are already setup on Stripe!",
+
+  "_COMMENT": "ABORT QUEUECONTROLLER.PHP",
+  "Failed to create game": "Failed to create game",
+
+  "_COMMENT": "ABORT SETTINGSCONTROLLER.PHP",
+  "Invalid Password": "Invalid Password",
+  "Organization not found": "Organization not found",
+  "You cannot reduce your subscription below your current number of active stations. Please delete some stations before proceeding.": "You cannot reduce your subscription below your current number of active stations. Please delete some stations before proceeding.",
+
+  "_COMMENT": "ABORT STATIONCONTROLLER.PHP",
+  "Station not found": "Station not found",
+  "No Active Organization": "No Active Organization",
+  "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station": "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station",
+  "That station is already up to date": "That station is already up to date",
+
+  "_COMMENT": "ABORT STATSCONTROLLER.PHP",
+  "Dataset not found": "Dataset not found",
+  "Dataset Parser not found!": "Dataset Parser not found!",
+  "Invalid view level for this data set!": "Invalid view level for this data set!",
+  "The selected date period is too long for this data set!": "The selected date period is too long for this data set!",
+  "Invalid chart type for this data set (:type)": "Invalid chart type for this data set (:type)",
+  "No post-processing method for type :type": "No post-processing method for type :type",
+
+  "_COMMENT": "ABORT TAGCONTROLLER.PHP",
+  "Tag could not be found": "Tag could not be found",
+
+  "_COMMENT": "ABORT USERCONTROLLER.PHP",
+  "This is not a global admin endpoint!": "This is not a global admin endpoint!",
+  "User not found": "User not found",
+  "Invalid Avatar Path": "Invalid Avatar Path",
+
+  "_COMMENT": "ABORT PUSHERENDPOINTCONTROLLER.PHP",
+  "Invalid Webhook Key": "Invalid Webhook Key",
+
+  "_COMMENT": "ABORT STATIONENDPOINTCONTROLLER.PHP",
+  "Malformed JSON Payload": "Malformed JSON Payload",
+  "Session not found": "Session not found",
+  "Invalid SteamID": "Invalid SteamID",
+  "Invalid SteamID or Steam Servers are throwing up right now.": "Invalid SteamID or Steam Servers are throwing up right now.",
+  "We're not using pusher right now.": "We're not using pusher right now.",
+  "You may not access that channel": "You may not access that channel",
+  "Channel and socket not provided": "Channel and socket not provided",
+  "No build found": "No build found",
+  "Location not found for station": "Location not found for station",
+  "Invalid Capability Provided": "Invalid Capability Provided",
+  "Error processing payload, please ensure the socket ID is correct": "Error processing payload, please ensure the socket ID is correct",
+
+  "_COMMENT": "ABORT UPDATERENDPOINTCONTROLLER.PHP",
+  "Invalid Key/Secret": "Invalid Key/Secret",
+  "The email address must be linked to a user within your organization": "The email address must be linked to a user within your organization",
+
+  "_COMMENT": "ABORT AUTHENTICATE.PHP",
+  "This account is currently inactive": "This account is currently inactive",
+
+  "_COMMENT": "ABORT AUTHSTATION.PHP",
+  "Please provide a valid station token.": "Please provide a valid station token.",
+
+  "_COMMENT": "ABORT AUTHUPDATER.PHP",
+  "Please provide a valid link key/secret": "Please provide a valid link key/secret",
+
+  "_COMMENT": "ABORT CHECKTENANTMANAGER.PHP",
+  "Woah there! You're trying to make a global admin request while not in the global admin. That could get messy.": "Woah there! You're trying to make a global admin request while not in the global admin. That could get messy.",
+  "Woah there! You're trying to make an arcade-level request while not logged into an arcade's admin. That could get messy.": "Woah there! You're trying to make an arcade-level request while not logged into an arcade's admin. That could get messy.",
+
+  "_COMMENT": "ABORT PERMISSIONCHECK.PHP",
+  "Please login to continue": "Please login to continue",
+  "You do not have permission to access this page.": "You do not have permission to access this page.",
+
+  "_COMMENT": "ABORT TENANTID.PHP",
+  "You need to select a tenancy organization as a global admin": "You need to select a tenancy organization as a global admin",
+
+  "_COMMENT": "ABORT BOOKING.PHP",
+  "Please provide a validate date": "Please provide a validate date",
+
+  "_COMMENT": "ABORT CUSTOMER.PHP",
+  "There was an issue adding your card": "There was an issue adding your card",
+
+  "_COMMENT": "ABORT GATEWAY.PHP",
+  "This provider doesn't exist": "This provider doesn't exist",
+
+  "_COMMENT": "ABORT LOCATION.PHP",
+  "Please check a date in the future": "Please check a date in the future",
+  "The location is not open on this date": "The location is not open on this date",
+
+  "_COMMENT": "ABORT ORGANISATION.PHP",
+  "Please login to an account": "Please login to an account",
+  "Admin users must have a tenant organisation selected": "Admin users must have a tenant organisation selected",
+  "An email is required to create a customer": "An email is required to create a customer",
+
+  "_COMMENT": "ABORT STATION.PHP",
+  "Station not found": "Station not found",
+  "Subscription has expired": "Subscription has expired",
+  "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.": "There are bookings that we can't reallocate off of :name. You must manually reallocate these bookings.",
+
+  "_COMMENT": "ABORT USER.PHP",
+  "No organisation set for user!": "No organisation set for user!",
+
+  "_COMMENT": "ABORT BOOKINGHOURSOBSERVER.PHP",
+  "Both an open and close time is required": "Both an open and close time is required",
+
+  "_COMMENT": "ABORT BOOKINGOBSERVER.PHP",
+  "A start time is required": "A start time is required",
+  "Your booking has invalid settings": "Your booking has invalid settings",
+  "A booking is not available at this time": "A booking is not available at this time",
+  "You are only allowed :per_station people per station": "You are only allowed :per_station people per station",
+  "There is not enough stations available to make this booking": "There is not enough stations available to make this booking",
+
+  "_COMMENT": "ABORT ORGANISATIONPOLICY.PHP",
+  "This organisation is currently suspended": "This organisation is currently suspended",
+
+  "_COMMENT": "ABORT BOOKABLE.PHP",
+  ":name has an upcoming booking that conflicts with this extension": ":name has an upcoming booking that conflicts with this extension",
+  "The arcade is no longer open at this time": "The arcade is no longer open at this time",
+  "This booking is not possible, there isn't enough stations available": "This booking is not possible, there isn't enough stations available",
+  "Your card could not be charged": "Your card could not be charged",
+  "There was an issue with your payment, please try again": "There was an issue with your payment, please try again"
 }
