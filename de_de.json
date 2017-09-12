@@ -256,6 +256,7 @@
   "Change Game": "Spiel wechseln",
   "Return to Game": "Zurück zum Spiel",
   "Return to Game Selection": "Zurück zur Spielauswahl",
+  "Leave Game": "Spiel beenden",
   "Multiplayer Games": "Mehrspieler-Spiele",
   "Join": "Beitreten",
   "Select a game tile to join that player's game": "Wähle eine Spiel-Kachel aus, um diesem Spieler beizutreten",
@@ -306,5 +307,176 @@
   "The video conversion for :title has completed successfully": "Die Video-Konvertierung für :title wurde erfolgreich abgeschlossen",
   "Video Conversion Failed for :title": "Video-Konvertierung für :title fehlgeschlagen",
   "Error": "Fehler",
-  "The video conversion for :title did not complete successfully. Please try again.": "Die Video-Konvertierung für :title wurde nicht erfolgreich abgeschlossen. Bitte versuchen Sie es erneut."
+  "The video conversion for :title did not complete successfully. Please try again.": "Die Video-Konvertierung für :title wurde nicht erfolgreich abgeschlossen. Bitte versuchen Sie es erneut.",
+
+  "_COMMENT": "BOOKINGSETTINGS MESSAGES",
+  "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment.": "Reservierungen, die mindestens {hours} Stunden im Vorraus storniert werden, werden in voller Höhe zurückerstattet. Rückerstattungen werden auf die ursprünglich verwendete Kreditkarte gutgeschrieben.",
+
+  "_COMMENT": "ABORT BUILDCONTROLLER.PHP",
+  "Build not found": "Build nicht gefunden",
+  "Build not published": "Build nicht veröffentlicht",
+
+  "_COMMENT": "ABORT OAUTHCONTROLLER.PHP",
+  "This OAuth Provider doesn't exist": "Dieser OAuth-Anbieter existiert nicht",
+  "Your Oauth State is Invalid": "Ihr Oauth-Status ist ungültig",
+
+  "_COMMENT": "ABORT UPDATERCONTROLLER.PHP",
+  "We don't have an updater build online right now, please try again in a little while": "Wir haben zur Zeit keinen Updater-Build online verfügbar, bitte versuchen Sie es später noch einmal",
+  "This organisation has no users with access to all locations to use the link details of": "Diese Organisation hat keine Benutzer, die Zugriff auf alle Standorte haben, um die folgenden Link-Details benutzen zu können:",
+
+  "_COMMENT": "ABORT BUILDCONTROLLER.PHP",
+  "Invalid File Path": "Ungültiger Dateipfad",
+
+  "_COMMENT": "ABORT CATEGORYCONTROLLER.PHP",
+  "Category could not be found": "Kategorie konnte nicht gefunden werden",
+  "Please remove all games from this category before deleting it.": "Bitte entfernen Sie alle Spiele aus dieser Kategorie bevor Sie sie löschen.",
+
+  "_COMMENT": "ABORT DOCUMENTCONTROLLER.PHP",
+  "Resource not found": "Ressource nicht gefunden",
+
+  "_COMMENT": "ABORT EARLYACCESSCONTROLLER.PHP",
+  "Please login to an organisation": "Bitte in eine Organisation einloggen",
+  "Failed to opt-in to feature": "Anmeldung für die folgende Funktion fehlgeschlagen:",
+  "Failed to opt-out of feature": "Abmeldung für die folgende Funktion fehlgeschlagen:",
+
+  "_COMMENT": "ABORT GAMECONTROLLER.PHP",
+  "Game not found": "Spiel nicht gefunden",
+  "Could not find game": "Konnte Spiel nicht finden",
+  "Category not found": "Kategorie nicht gefunden",
+  "Game could not be found": "Spiel konnte nicht gefunden werden",
+  "Preset could not be found": "Voreinstellung konnte nicht gefunden werden",
+  "Invalid Image Path": "Ungültiger Bild-Pfad",
+  "Invalid Video Path": "Ungültiger Video-Pfad",
+
+  "_COMMENT": "ABORT LOCATIONCONTROLLER.PHP",
+  "Location not found": "Standort nicht gefunden",
+  "Invalid Logo Path": "Ungültiger Logo-Pfad",
+  "Please remove all stations from this location before deleting it.": "Bitte entfernen Sie alle Stationen aus diesem Standort bevor Sie ihn löschen.",
+
+  "_COMMENT": "ABORT MANUALNOTIFICATIONCONTROLLER.PHP",
+  "Notification not found": "Benachrichtigung nicht gefunden",
+  "You cannot delete a notification that has already been sent!": "Sie können keine bereits versendete Benachrichtigung löschen!",
+
+  "_COMMENT": "ABORT MONITORCONTROLLER.PHP",
+  "Location could not be found, or you do not have permission to access it": "Standort konnte nicht gefunden werden, oder Sie haben keine Zugangsberechtigung",
+
+  "_COMMENT": "ABORT ORGANISATIONCONTROLLER.PHP",
+  "Organisation not found": "Organisation nicht gefunden",
+  "Please modify the station limit of this organization via their billing details view, they are already setup on Stripe!": "Bitte ändern Sie das Stations-Limit dieser Organisation mittels deren Zahlungsinformationsansicht. Diese Informationen sind bereits bei Stripe hinterlegt!",
+
+  "_COMMENT": "ABORT QUEUECONTROLLER.PHP",
+  "Failed to create game": "Erstellen des Spiels fehlgeschlagen",
+
+  "_COMMENT": "ABORT SETTINGSCONTROLLER.PHP",
+  "Invalid Password": "Ungültiges Passwort",
+  "Organization not found": "Organisation nicht gefunden",
+  "You cannot reduce your subscription below your current number of active stations. Please delete some stations before proceeding.": "Sie können Ihr Abonnement nicht unter Ihre aktuelle Stationsanzahl senken. Bitte entfernen Sie einige Stationen bevor Sie fortfahren.",
+
+  "_COMMENT": "ABORT STATIONCONTROLLER.PHP",
+  "Station not found": "Station nicht gefunden",
+  "No Active Organization": "Keine aktive Organisation",
+  "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station": "Das Löschen dieser Station führt zu einer Änderung Ihres Abonnements, aber Sie haben nicht die Berechtigung Zahlungsinformationen zu ändern. Bitte bitten Sie einen Arcade-Administrator diese Station zu löschen",
+  "That station is already up to date": "Diese Station ist bereits auf dem neuesten Stand",
+
+  "_COMMENT": "ABORT STATSCONTROLLER.PHP",
+  "Dataset not found": "Datensatz nicht gefunden",
+  "Dataset Parser not found!": "Datensatz-Parser nicht gefunden!",
+  "Invalid view level for this data set!": "Ungültige Ansichtsebene für diesen Datensatz!",
+  "The selected date period is too long for this data set!": "Der ausgewählte Zeitraum ist zu groß für diesen Datensatz!",
+  "Invalid chart type for this data set (:type)": "Ungültiger Diagrammtyp für diesen Datensatz (:type)",
+  "No post-processing method for type :type": "Keine Nachbearbeitungsmethode für Typ :type",
+
+  "_COMMENT": "ABORT TAGCONTROLLER.PHP",
+  "Tag could not be found": "Tag konnte nicht gefunden werden",
+
+  "_COMMENT": "ABORT USERCONTROLLER.PHP",
+  "This is not a global admin endpoint!": "Dies ist kein globaler Admin-Endpunkt!",
+  "User not found": "Benutzer nicht gefunden",
+  "Invalid Avatar Path": "Ungültiger Avatar-Pfad",
+
+  "_COMMENT": "ABORT PUSHERENDPOINTCONTROLLER.PHP",
+  "Invalid Webhook Key": "Ungültiger Webhook-Schlüssel",
+
+  "_COMMENT": "ABORT STATIONENDPOINTCONTROLLER.PHP",
+  "Malformed JSON Payload": "Deformierter JSON-Payload",
+  "Session not found": "Sitzung nicht gefunden",
+  "Invalid SteamID": "Ungültige SteamID",
+  "Invalid SteamID or Steam Servers are throwing up right now.": "Ungültige SteamID oder die Steam-Server machen Probleme.",
+  "We're not using pusher right now.": "Wir benutzen Pusher gerade nicht.",
+  "You may not access that channel": "Sie dürfen nicht auf diesen Channel zugreifen",
+  "Channel and socket not provided": "Channel und Socket nicht bereitgestellt",
+  "No build found": "Kein Build gefunden",
+  "Location not found for station": "Standort für Station nicht gefunden",
+  "Invalid Capability Provided": "Ungültige Capability bereitgestellt",
+  "Error processing payload, please ensure the socket ID is correct": "Fehler beim Verarbeiten des Payloads. Bitte stellen Sie sicher, dass die Socket-ID richtig ist",
+
+  "_COMMENT": "ABORT UPDATERENDPOINTCONTROLLER.PHP",
+  "Invalid Key/Secret": "Ungültiger Schlüssel/Geheimnis",
+  "The email address must be linked to a user within your organization": "Die E-Mail-Adresse muss mit einem Benutzer aus Ihrer Organisation verbunden sein",
+
+  "_COMMENT": "ABORT AUTHENTICATE.PHP",
+  "This account is currently inactive": "Dieses Benutzerkonto ist zurzeit inaktiv",
+
+  "_COMMENT": "ABORT AUTHSTATION.PHP",
+  "Please provide a valid station token.": "Bitte geben Sie einen gültigen Stations-Token an.",
+
+  "_COMMENT": "ABORT AUTHUPDATER.PHP",
+  "Please provide a valid link key/secret": "Bitte geben Sie einen gültigen Schlüssel/Geheimnis an",
+
+  "_COMMENT": "ABORT CHECKTENANTMANAGER.PHP",
+  "Woah there! You're trying to make a global admin request while not in the global admin. That could get messy.": "Aufgepasst! Sie versuchen eine globale Admin-Anfrage zu machen, während Sie nicht globaler Admin sind. Das könnte chaotisch werden.",
+  "Woah there! You're trying to make an arcade-level request while not logged into an arcade's admin. That could get messy.": "Aufgepasst! Sie versuchen eine Arcade-Anfrage zu machen, während Sie nicht als ein Arcade-Admin eingeloggt sind. Das könnte chaotisch werden.",
+
+  "_COMMENT": "ABORT PERMISSIONCHECK.PHP",
+  "Please login to continue": "Bitte loggen Sie sich ein um fortzufahren",
+  "You do not have permission to access this page.": "Sie haben keine Berechtigung auf diese Seite zu zugreifen.",
+
+  "_COMMENT": "ABORT TENANTID.PHP",
+  "You need to select a tenancy organization as a global admin": "Sie müssen als globaler Admin eine Miet-Organisation auswählen",
+
+  "_COMMENT": "ABORT BOOKING.PHP",
+  "Please provide a validate date": "Bitte geben Sie ein gültiges Datum an",
+
+  "_COMMENT": "ABORT CUSTOMER.PHP",
+  "There was an issue adding your card": "Es gab ein Problem beim Hinzufügen Ihrer Karte",
+
+  "_COMMENT": "ABORT GATEWAY.PHP",
+  "This provider doesn't exist": "Dieser Anbieter existiert nicht",
+
+  "_COMMENT": "ABORT LOCATION.PHP",
+  "Please check a date in the future": "Bitte markieren Sie ein Datum in der Zukunft",
+  "The location is not open on this date": "Der Standort ist an diesem Datum nicht geöffnet",
+
+  "_COMMENT": "ABORT ORGANISATION.PHP",
+  "Please login to an account": "Bitte loggen Sie sich in ein Benutzerkonto ein",
+  "Admin users must have a tenant organisation selected": "Admin-Benutzer müssen eine Miet-Organisation ausgewählt haben",
+  "An email is required to create a customer": "Eine E-Mail wird benötigt um einen Kunden zu erstellen",
+
+  "_COMMENT": "ABORT STATION.PHP",
+  "Station not found": "Station nicht gefunden",
+  "Subscription has expired": "Abonnement ist abgelaufen",
+  "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.": "Es gibt Reservierungen, die wir nicht weg von :name neu zuordnen können. Sie müssen diese Reservierungen manuell neu zuordnen.",
+
+  "_COMMENT": "ABORT USER.PHP",
+  "No organisation set for user!": "Für den Benutzer ist keine Organisation eingestellt!",
+
+  "_COMMENT": "ABORT BOOKINGHOURSOBSERVER.PHP",
+  "Both an open and close time is required": "Sowohl eine Startzeit, als auch ein Ende werden benötigt",
+
+  "_COMMENT": "ABORT BOOKINGOBSERVER.PHP",
+  "A start time is required": "Eine Startzeit wird benötigt",
+  "Your booking has invalid settings": "Ihre Reservierung hat ungültige Einstellungen",
+  "A booking is not available at this time": "Eine Reservierung ist zu diesem Zeitpunkt nicht möglich",
+  "You are only allowed :per_station people per station": "Es sind maximal :per_station Personen pro Station erlaubt",
+  "There is not enough stations available to make this booking": "Es gibt nicht genug verfügbare Stationen um diese Reservierung zu machen",
+
+  "_COMMENT": "ABORT ORGANISATIONPOLICY.PHP",
+  "This organisation is currently suspended": "Diese Organisation ist zur Zeit gesperrt",
+
+  "_COMMENT": "ABORT BOOKABLE.PHP",
+  ":name has an upcoming booking that conflicts with this extension": ":name hat eine anstehende Reservierung, die mit dieser Verlängerung in Konflikt steht",
+  "The arcade is no longer open at this time": "Das Arcade ist zu dieser Uhrzeit nicht mehr geöffnet",
+  "This booking is not possible, there isn't enough stations available": "Diese Reservierung ist nicht möglich, da nicht genug Stationen verfügbar sind",
+  "Your card could not be charged": "Ihre Karte konnte nicht belastet werden",
+  "There was an issue with your payment, please try again": "Es gab ein Problem mit Ihrer Zahlung, bitte versuchen Sie es erneut"
 }
