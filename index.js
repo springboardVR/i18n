@@ -1,4 +1,5 @@
-import enUs from './en_us.json';
+import enUs from './en-US.json';
+import deDe from './de-DE.json';
 
 /**
  * An example of how different browsers report languages for english:
