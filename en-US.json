@@ -183,6 +183,7 @@
   "Edit Booking": "Edit Booking",
   "Start Timer": "Start Timer",
   "Start": "Start",
+  "End": "End",
   "Check In Booking": "Check In Booking",
   "Check In": "Check In",
   "Ready": "Ready",
@@ -193,7 +194,6 @@
   "Total Extension": "Total Extension",
   "minute": "minute | minutes",
   "Minute": "Minute | Minutes",
-  "Start": "Start",
   "Extend": "Extend",
   "Charged Extend": "Charged Extend",
   "Time": "Time",
@@ -215,8 +215,11 @@
   "settings": "settings",
   "Status": "Status",
   "General": "General",
-  "Maintainence": "Maintainence",
+  "Maintenance": "Maintenance",
   "Search": "Search",
+  "Turn On": "Turn On",
+  "Turn Off": "Turn Off",
+  "Restart": "Restart",
 
   "_COMMENT": "MONITOR CALENDAR",
 
