@@ -12,5 +12,8 @@ import deDe from './de-DE.json';
 export default {
   'en-US': enUs,
   'en-us': enUs,
-  'en': enUs
+  'en': enUs,
+  'de-DE': deDe,
+  'de-de': deDe,
+  'de': deDe
 };
