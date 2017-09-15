@@ -1,4 +1,5 @@
-import enUs from './en_us.json';
+import enUs from './en-US.json';
+import deDe from './de-DE.json';
 
 /**
  * An example of how different browsers report languages for english:
@@ -11,5 +12,8 @@ import enUs from './en_us.json';
 export default {
   'en-US': enUs,
   'en-us': enUs,
-  'en': enUs
+  'en': enUs,
+  'de-DE': deDe,
+  'de-de': deDe,
+  'de': deDe
 };
