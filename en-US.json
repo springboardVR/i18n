@@ -169,6 +169,10 @@
   "player@example.com": "player@example.com",
   "+1 123-456-7890": "+1 123-456-7890",
   "Add Station": "Add Station",
+  "Have a coupon code?": "Have a coupon code?",
+  "Enter Coupon Code": "Enter Coupon Code",
+  "Apply Coupon": "Apply Coupon",
+  "Total": "Total",
 
   "_COMMENT": "MONITOR SETTINGS",
 
