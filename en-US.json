@@ -512,6 +512,22 @@
   "The arcade is no longer open at this time": "The arcade is no longer open at this time",
   "This booking is not possible, there isn't enough stations available": "This booking is not possible, there isn't enough stations available",
   "Your card could not be charged": "Your card could not be charged",
-  "There was an issue with your payment, please try again": "There was an issue with your payment, please try again"
+  "There was an issue with your payment, please try again": "There was an issue with your payment, please try again",
 
+  "_COMMENT": "MESSAGES BOOKING.PHP",
+  "Created by Admin User": "Created by Admin User",
+  "Created through Booking Widget": "Created through Booking Widget",
+
+  "_COMMENT": "BOOKINGEXPORTCONTROLLER.PHP",
+  "ID": "ID",
+  "Start Time": "Start Time",
+  "End Time": "End Time",
+  "Duration": "Duration",
+  "Amount Paid": "Amount Paid",
+  "Number of Players": "Number of Players",
+  "Number of Stations": "Number of Stations",
+  "Customer Name": "Customer Name",
+  "Customer Email": "Customer Email",
+  "Booking Source": "Booking Source",
+  "Unknown": "Unknown"
 }
