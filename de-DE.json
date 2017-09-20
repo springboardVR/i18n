@@ -173,6 +173,7 @@
   "Enter Coupon Code": "Gutscheincode eingeben",
   "Apply Coupon": "Gutscheincode verwenden",
   "Total": "Gesamt",
+  "Update Station": "Station aktualisieren",
 
   "_COMMENT": "MONITOR SETTINGS",
 
@@ -513,11 +514,11 @@
   "This booking is not possible, there isn't enough stations available": "Diese Reservierung ist nicht möglich, da nicht genug Stationen verfügbar sind",
   "Your card could not be charged": "Ihre Karte konnte nicht belastet werden",
   "There was an issue with your payment, please try again": "Es gab ein Problem mit Ihrer Zahlung, bitte versuchen Sie es erneut",
- 
+
   "_COMMENT": "MESSAGES BOOKING.PHP",
   "Created by Admin User": "Erstellt vom Administrator",
   "Created through Booking Widget": "Erstellt durch Buchungs-Widget",
- 
+
   "_COMMENT": "BOOKINGEXPORTCONTROLLER.PHP",
   "ID": "ID",
   "Start Time": "Startzeit",
