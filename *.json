@@ -1,0 +1,1064 @@
+{
+  "+1 123-456-7890": {
+    "message": "1234/567890"
+  },
+  "3 Day Trial Expiration Notice": {
+    "message": "3-Tage-Ablaufbenachrichtigung der Probezeit"
+  },
+  ":name Booking Cancelled": {
+    "message": ":name Reservierung storniert"
+  },
+  ":name Booking Updated": {
+    "message": ":name Reservierung aktualisiert"
+  },
+  ":name has an upcoming booking that conflicts with this extension": {
+    "message": ":name hat eine anstehende Reservierung, die mit dieser Verlängerung in Konflikt steht"
+  },
+  ":name New Booking": {
+    "message": ":name Neue Reservierung"
+  },
+  ":organization_name Booking Cancelled": {
+    "message": ":organization_name Reservierung storniert"
+  },
+  ":organization_name Booking Updated": {
+    "message": ":organization_name Reservierung aktualisiert"
+  },
+  ":organization_name New Booking": {
+    "message": ":organization_name Neue Reservierung"
+  },
+  "A booking is not available at this time": {
+    "message": "Eine Reservierung ist zu diesem Zeitpunkt nicht möglich"
+  },
+  "A confirmation email has been sent to": {
+    "message": "Eine Bestätigungs-E-Mail wurde gesendet an"
+  },
+  "A date is required": {
+    "message": "Ein Datum wird benötigt"
+  },
+  "A SpringboardVR Update is Available: :version": {
+    "message": "Ein SpringboardVR-Update ist verfügbar: :version"
+  },
+  "A start time is required": {
+    "message": "Eine Startzeit wird benötigt"
+  },
+  "Add New Time Option": {
+    "message": "Neue Zeitoption hinzufügen"
+  },
+  "Add Station": {
+    "message": "Station hinzufügen"
+  },
+  "Add Time": {
+    "message": "Zeit hinzufügen"
+  },
+  "Admin users must have a tenant organisation selected": {
+    "message": "Admin-Benutzer müssen eine Miet-Organisation ausgewählt haben"
+  },
+  "All rights reserved": {
+    "message": "Alle Rechte vorbehalten"
+  },
+  "Amount Owed": {
+    "message": "Unbezahlter Betrag"
+  },
+  "Amount paid": {
+    "message": "Bezahlter Betrag"
+  },
+  "Amount Paid": {
+    "message": "Bezahlter Betrag"
+  },
+  "Amount unpaid": {
+    "message": "Unbezahlter Betrag"
+  },
+  "An email is required to create a customer": {
+    "message": "Eine E-Mail wird benötigt um einen Kunden zu erstellen"
+  },
+  "Arcade Monitor": {
+    "message": "Arcade-Monitor"
+  },
+  "Are You Sure": {
+    "message": "Sind Sie sicher"
+  },
+  "auth.failed": {
+    "message": "Diese Anmeldedaten stimmen nicht mit unseren Datensätzen überein."
+  },
+  "auth.throttle": {
+    "message": "Zu viele Login-Versuche. Bitte versuchen Sie es erneut in :seconds Sekunden."
+  },
+  "Auto-Select Stations": {
+    "message": "Stationen automatisch auswählen"
+  },
+  "Back to Arcade": {
+    "message": "Zurück zum Arcade"
+  },
+  "Back to Old Monitor": {
+    "message": "Zurück zum vorherigen Monitor"
+  },
+  "Before you can login, please verify your account using the button below:": {
+    "message": "Bevor Sie sich einloggen können verifizieren Sie bitte Ihr Benutzerkonto über den unteren Button:"
+  },
+  "Booking": {
+    "message": "Reservierung"
+  },
+  "Booking Information": {
+    "message": "Reservierungsinformationen"
+  },
+  "Booking Summary": {
+    "message": "Reservierungsübersicht"
+  },
+  "Bookings": {
+    "message": "Reservierung | Reservierungen"
+  },
+  "Bookings powered by SpringboardVR": {
+    "message": "Reservierungen bereitgestellt durch SpringboardVR"
+  },
+  "Both an open and close time is required": {
+    "message": "Sowohl eine Startzeit, als auch ein Ende werden benötigt"
+  },
+  "Build not found": {
+    "message": "Build nicht gefunden"
+  },
+  "Build not published": {
+    "message": "Build nicht veröffentlicht"
+  },
+  "Calendar": {
+    "message": "Kalender"
+  },
+  "Call Help": {
+    "message": "Hilfe rufen"
+  },
+  "Calling": {
+    "message": "Rufen"
+  },
+  "Cancel": {
+    "message": "Abbrechen"
+  },
+  "Cancel Booking": {
+    "message": "Reservierung stornieren"
+  },
+  "Cancelling this booking will result in a full refund": {
+    "message": "Diese Reservierung zu stornieren führt zu einer vollständigen Erstattung"
+  },
+  "Category could not be found": {
+    "message": "Kategorie konnte nicht gefunden werden"
+  },
+  "Category not found": {
+    "message": "Kategorie nicht gefunden"
+  },
+  "Change Game": {
+    "message": "Spiel wechseln"
+  },
+  "Channel and socket not provided": {
+    "message": "Channel und Socket nicht bereitgestellt"
+  },
+  "Charged Extend": {
+    "message": "Kostenpflichtige Verlängerung"
+  },
+  "Check In": {
+    "message": "Einchecken"
+  },
+  "Check In Booking": {
+    "message": "Reservierung einchecken"
+  },
+  "Check-In": {
+    "message": "Einchecken"
+  },
+  "Checked in at": {
+    "message": "Eingecheckt um"
+  },
+  "Checkout": {
+    "message": "Kasse"
+  },
+  "Close": {
+    "message": "Schließen"
+  },
+  "Close Details": {
+    "message": "Zurück"
+  },
+  "Complimentary Extend": {
+    "message": "Gratis verlängern"
+  },
+  "Continue": {
+    "message": "Weiter"
+  },
+  "Continue, but don't send email": {
+    "message": "Weiter, aber keine E-Mail senden"
+  },
+  "Cost": {
+    "message": "Kosten"
+  },
+  "Could not find game": {
+    "message": "Konnte Spiel nicht finden"
+  },
+  "Credit Card Number": {
+    "message": "Kreditkartennummer"
+  },
+  "Custom": {
+    "message": "Benutzerdefiniert"
+  },
+  "Customer Information": {
+    "message": "Kundeninformationen"
+  },
+  "CVV": {
+    "message": "Sicherheitscode"
+  },
+  "Dataset not found": {
+    "message": "Datensatz nicht gefunden"
+  },
+  "Dataset Parser not found!": {
+    "message": "Datensatz-Parser nicht gefunden!"
+  },
+  "Date": {
+    "message": "Datum"
+  },
+  "Day": {
+    "message": "Tag"
+  },
+  "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station": {
+    "message": "Das Löschen dieser Station führt zu einer Änderung Ihres Abonnements, aber Sie haben nicht die Berechtigung Zahlungsinformationen zu ändern. Bitte bitten Sie einen Arcade-Administrator diese Station zu löschen"
+  },
+  "Don't have  an account? {0}": {
+    "message": "Haben Sie kein Benutzerkonto? {0}"
+  },
+  "due to :reason": {
+    "message": "wegen :reason"
+  },
+  "Edit Booking": {
+    "message": "Reservierung bearbeiten"
+  },
+  "Email": {
+    "message": "E-Mail"
+  },
+  "End Time": {
+    "message": "Endzeit"
+  },
+  "Error": {
+    "message": "Fehler"
+  },
+  "Error processing payload, please ensure the socket ID is correct": {
+    "message": "Fehler beim Verarbeiten des Payloads. Bitte stellen Sie sicher, dass die Socket-ID richtig ist"
+  },
+  "Expiration Date": {
+    "message": "Ablaufdatum"
+  },
+  "Extend": {
+    "message": "Verlängern"
+  },
+  "Extend Booking": {
+    "message": "Reservierung verlängern"
+  },
+  "Extend on the way": {
+    "message": "Jemand wird gleich kommen um Deine Zeit zu verlängern"
+  },
+  "Extend Time": {
+    "message": "Verlängern"
+  },
+  "Failed to create game": {
+    "message": "Erstellen des Spiels fehlgeschlagen"
+  },
+  "Failed to opt-in to feature": {
+    "message": "Anmeldung für die folgende Funktion fehlgeschlagen:"
+  },
+  "Failed to opt-out of feature": {
+    "message": "Abmeldung für die folgende Funktion fehlgeschlagen:"
+  },
+  "Filters": {
+    "message": "Filter"
+  },
+  "First Name": {
+    "message": "Vorname"
+  },
+  "Forgot Password?": {
+    "message": "Passwort vergessen?"
+  },
+  "Game Controls": {
+    "message": "Spielsteuerung"
+  },
+  "Game could not be found": {
+    "message": "Spiel konnte nicht gefunden werden"
+  },
+  "Game not found": {
+    "message": "Spiel nicht gefunden"
+  },
+  "Go to Station Manager": {
+    "message": "Gehe zum Station-Manager"
+  },
+  "has an upcoming booking that conflicts with this extension": {
+    "message": "hat eine bevorstehende Reservierung, die mit dieser Verlängerung in Konflikt steht"
+  },
+  "Has outstanding charges": {
+    "message": "Hat offene Rechnungen"
+  },
+  "Hello :name": {
+    "message": "Hallo :name"
+  },
+  "Help is on the way": {
+    "message": "Hilfe ist auf dem Weg"
+  },
+  "Hey :name,<br><br>Sending you a quick reminder because I saw your trial is expiring in the next 3 days. To continue using our software, please take a minute to input your billing information in the admin panel. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": {
+    "message": "Hallo :name,<br><br>Ich sende Ihnen eine kurze Erinnerung, da ich gesehen habe, dass Ihre Probezeit in den nächsten 3 Tagen abläuft. Bitte nehmen Sie sich einen Moment Zeit, um Ihre Zahlungsinformationen im Admin-Panel zu hinterlegen, damit Sie unsere Software weiterhin benutzen können. Lassen Sie uns wissen, falls Sie Fragen haben oder weitere Hilfe benötigen.<br>Danke, dass Sie sich für springboardVR entschieden haben!"
+  },
+  "Hey :name,<br><br>Sending you a quick reminder that your credit card will be charged in 3 days. No action needs to be taken on your end, this is just a reminder. Let us know if you have any questions or need anything.<br>Thank you for choosing springboardVR!": {
+    "message": "Hallo :name,<br><br>>Ich sende Ihnen eine kurze Erinnerung, dass Ihre Kreditkarte in 3 Tagen belastet wird. Sie müssen nichts weiter tun, dies ist nur eine Erinnerung. Lassen Sie uns wissen, falls Sie Fragen haben oder weitere Hilfe benötigen.<br>Danke, dass Sie sich für springboardVR entschieden haben!"
+  },
+  "hour": {
+    "message": "Stunde | Stunden"
+  },
+  "I have read and agree to the {0} and {1}": {
+    "message": "Ich habe {0} und {1} gelesen und akzeptiere diese."
+  },
+  "Invalid Avatar Path": {
+    "message": "Ungültiger Avatar-Pfad"
+  },
+  "Invalid Capability Provided": {
+    "message": "Ungültige Capability bereitgestellt"
+  },
+  "Invalid chart type for this data set (:type)": {
+    "message": "Ungültiger Diagrammtyp für diesen Datensatz (:type)"
+  },
+  "Invalid File Path": {
+    "message": "Ungültiger Dateipfad"
+  },
+  "Invalid Image Path": {
+    "message": "Ungültiger Bild-Pfad"
+  },
+  "Invalid Key/Secret": {
+    "message": "Ungültiger Schlüssel/Geheimnis"
+  },
+  "Invalid Logo Path": {
+    "message": "Ungültiger Logo-Pfad"
+  },
+  "Invalid Password": {
+    "message": "Ungültiges Passwort"
+  },
+  "Invalid SteamID": {
+    "message": "Ungültige SteamID"
+  },
+  "Invalid SteamID or Steam Servers are throwing up right now.": {
+    "message": "Ungültige SteamID oder die Steam-Server machen Probleme."
+  },
+  "Invalid Video Path": {
+    "message": "Ungültiger Video-Pfad"
+  },
+  "Invalid view level for this data set!": {
+    "message": "Ungültige Ansichtsebene für diesen Datensatz!"
+  },
+  "Invalid Webhook Key": {
+    "message": "Ungültiger Webhook-Schlüssel"
+  },
+  "Invite": {
+    "message": "Einladen"
+  },
+  "Invite Others to Join You": {
+    "message": "Lade andere ein Dir beizutreten"
+  },
+  "Join": {
+    "message": "Beitreten"
+  },
+  "Last Call For Help": {
+    "message": "Letzter Hilferuf"
+  },
+  "Last Name": {
+    "message": "Nachname"
+  },
+  "Late Policy": {
+    "message": "Verspätungsregelungen"
+  },
+  "Launch Game": {
+    "message": "Starten"
+  },
+  "Launching :game": {
+    "message": "Starte :game"
+  },
+  "Leave Game": {
+    "message": "Spiel beenden"
+  },
+  "Length of Booking": {
+    "message": "Länge der Reservierung"
+  },
+  "Loading": {
+    "message": "Lade"
+  },
+  "Location could not be found, or you do not have permission to access it": {
+    "message": "Standort konnte nicht gefunden werden, oder Sie haben keine Zugangsberechtigung"
+  },
+  "Location not found": {
+    "message": "Standort nicht gefunden"
+  },
+  "Location not found for station": {
+    "message": "Standort für Station nicht gefunden"
+  },
+  "Location Settings": {
+    "message": "Standort-Einstellungen"
+  },
+  "Locations": {
+    "message": "Standorte"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Logout": {
+    "message": "Logout"
+  },
+  "Make a Booking": {
+    "message": "Reservieren"
+  },
+  "Malformed JSON Payload": {
+    "message": "Deformierter JSON-Payload"
+  },
+  "minute": {
+    "message": "Minute | Minuten"
+  },
+  "Minute": {
+    "message": "Minute | Minuten"
+  },
+  "Missing required fields": {
+    "message": "Pflichtfelder fehlen"
+  },
+  "Multiplayer Games": {
+    "message": "Mehrspieler-Spiele"
+  },
+  "New Release": {
+    "message": "Neue Version"
+  },
+  "Next Page": {
+    "message": "Vor"
+  },
+  "No Active Organization": {
+    "message": "Keine aktive Organisation"
+  },
+  "No build found": {
+    "message": "Kein Build gefunden"
+  },
+  "No games found using the selected filters": {
+    "message": "Keine Spiele mit den ausgewählten Filtern gefunden"
+  },
+  "No games you can join are currently being played by other people in your booking": {
+    "message": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit von anderen Spielern aus deiner Reservierung gespielt"
+  },
+  "No games you can join are currently being played in this arcade": {
+    "message": "Keine der Spiele, denen Du beitreten kannst, werden zur Zeit in diesem Arcade gespielt"
+  },
+  "No organisation set for user!": {
+    "message": "Für den Benutzer ist keine Organisation eingestellt!"
+  },
+  "No post-processing method for type :type": {
+    "message": "Keine Nachbearbeitungsmethode für Typ :type"
+  },
+  "Notification not found": {
+    "message": "Benachrichtigung nicht gefunden"
+  },
+  "Number of Players in Party": {
+    "message": "Anzahl der Spieler in der Gruppe"
+  },
+  "Number of Stations (VR Headsets)": {
+    "message": "Anzahl der Stationen (VR Headsets)"
+  },
+  "Offline": {
+    "message": "Offline"
+  },
+  "Organisation not found": {
+    "message": "Organisation nicht gefunden"
+  },
+  "Organization not found": {
+    "message": "Organisation nicht gefunden"
+  },
+  "Page": {
+    "message": "Seite"
+  },
+  "pagination.next": {
+    "message": "Vor &raquo;"
+  },
+  "pagination.previous": {
+    "message": "&laquo; Zurück"
+  },
+  "Password": {
+    "message": "Passwort"
+  },
+  "passwords.password": {
+    "message": "Passwörter müssen mindestens sechs Zeichen enthalten und mit der Wiederholung übereinstimmen."
+  },
+  "passwords.reset": {
+    "message": "Ihr Passwort wurde zurückgesetzt!"
+  },
+  "passwords.sent": {
+    "message": "Wir haben Ihren Passwort-Zurücksetzungslink per E-Mail versendet!"
+  },
+  "passwords.token": {
+    "message": "Dieser Passwort-Zurücksetzungsschlüssel ist ungültig."
+  },
+  "passwords.user": {
+    "message": "Wir können keinen Nutzer mit dieser E-Mail-Adresse finden."
+  },
+  "Pay in store": {
+    "message": "Im Geschäft bezahlen"
+  },
+  "Pay with card": {
+    "message": "Mit Karte bezahlen"
+  },
+  "per station": {
+    "message": "pro Station"
+  },
+  "Phone": {
+    "message": "Telefon"
+  },
+  "player": {
+    "message": "Spieler | Spieler"
+  },
+  "player@example.com": {
+    "message": "spieler@example.com"
+  },
+  "Players": {
+    "message": "Spieler"
+  },
+  "Please charge the customer": {
+    "message": "Bitte lassen Sie den Kunden bezahlen"
+  },
+  "Please charge the customer {0} before proceeding.": {
+    "message": "Bitte lassen Sie den Kunden {0} bezahlen bevor es weitergeht."
+  },
+  "Please check a date in the future": {
+    "message": "Bitte markieren Sie ein Datum in der Zukunft"
+  },
+  "Please login to an account": {
+    "message": "Bitte loggen Sie sich in ein Benutzerkonto ein"
+  },
+  "Please login to an organisation": {
+    "message": "Bitte in eine Organisation einloggen"
+  },
+  "Please login to continue": {
+    "message": "Bitte loggen Sie sich ein um fortzufahren"
+  },
+  "Please modify the station limit of this organization via their billing details view, they are already setup on Stripe!": {
+    "message": "Bitte ändern Sie das Stations-Limit dieser Organisation mittels deren Zahlungsinformationsansicht. Diese Informationen sind bereits bei Stripe hinterlegt!"
+  },
+  "Please provide a valid link key/secret": {
+    "message": "Bitte geben Sie einen gültigen Schlüssel/Geheimnis an"
+  },
+  "Please provide a valid station token.": {
+    "message": "Bitte geben Sie einen gültigen Stations-Token an."
+  },
+  "Please provide a validate date": {
+    "message": "Bitte geben Sie ein gültiges Datum an"
+  },
+  "Please remove all games from this category before deleting it.": {
+    "message": "Bitte entfernen Sie alle Spiele aus dieser Kategorie bevor Sie sie löschen."
+  },
+  "Please remove all stations from this location before deleting it.": {
+    "message": "Bitte entfernen Sie alle Stationen aus diesem Standort bevor Sie ihn löschen."
+  },
+  "Preset could not be found": {
+    "message": "Voreinstellung konnte nicht gefunden werden"
+  },
+  "Previous page": {
+    "message": "Zurück"
+  },
+  "privacy policy": {
+    "message": "Datenschutzerklärung"
+  },
+  "Ready": {
+    "message": "Bereit"
+  },
+  "Rearrange Time Options": {
+    "message": "Zeitoptionen neu anordnen"
+  },
+  "Refund Policy": {
+    "message": "Stornierungsregelungen"
+  },
+  "Reservations cancelled at least {hours} hours in advance will receive a full refund. Refunds will be credited back to the original credit card used for payment.": {
+    "message": "Reservierungen, die mindestens {hours} Stunden im Vorraus storniert werden, werden in voller Höhe zurückerstattet. Rückerstattungen werden auf die ursprünglich verwendete Kreditkarte gutgeschrieben."
+  },
+  "Resource not found": {
+    "message": "Ressource nicht gefunden"
+  },
+  "Return to Game": {
+    "message": "Zurück zum Spiel"
+  },
+  "Return to Game Selection": {
+    "message": "Zurück zur Spielauswahl"
+  },
+  "See You Soon": {
+    "message": "Bis bald"
+  },
+  "Select a game tile to join that player's game": {
+    "message": "Wähle eine Spiel-Kachel aus, um diesem Spieler beizutreten"
+  },
+  "Send customer receipt?": {
+    "message": "Kunden-Quitting senden?"
+  },
+  "Session not found": {
+    "message": "Sitzung nicht gefunden"
+  },
+  "Settings": {
+    "message": "Einstellungen"
+  },
+  "Show all filters": {
+    "message": "Alle anzeigen"
+  },
+  "Sorry, looks like this booking doesn't exist.": {
+    "message": "Entschuldigung, es sieht aus als existiere diese Reservierung nicht."
+  },
+  "Start": {
+    "message": "Starten"
+  },
+  "Start Time": {
+    "message": "Startzeit"
+  },
+  "Start Timer": {
+    "message": "Timer starten"
+  },
+  "Start your free trial today!": {
+    "message": "Starten Sie heute Ihre kostenlose Probezeit!"
+  },
+  "Started at": {
+    "message": "Gestartet um"
+  },
+  "Station": {
+    "message": "Station | Stationen"
+  },
+  "station": {
+    "message": "Station | Stationen"
+  },
+  "Station Needs Assistance": {
+    "message": "Station braucht Hilfe"
+  },
+  "Station not found": {
+    "message": "Station nicht gefunden"
+  },
+  "Stations": {
+    "message": "Stationen"
+  },
+  "Subscription has expired": {
+    "message": "Abonnement ist abgelaufen"
+  },
+  "Success": {
+    "message": "Erfolg"
+  },
+  "Tag could not be found": {
+    "message": "Tag konnte nicht gefunden werden"
+  },
+  "terms of service": {
+    "message": "Nutzungsbedingungen"
+  },
+  "Thank you for choosing SpringboardVR!": {
+    "message": "Danke, dass Sie sich für SpringboardVR entschieden haben!"
+  },
+  "Thank you for using SpringboardVR!": {
+    "message": "Danke, dass Sie SpringboardVR nutzen!"
+  },
+  "Thanks": {
+    "message": "Danke"
+  },
+  "Thanks for signing up to SpringboardVR! You're one step closer to using our commercial licensing program.": {
+    "message": "Danke, dass Sie sich bei SpringboardVR angemeldet haben! Sie sind einen Schritt näher an der Verwendung unseres kommerziellen Lizenzprogramms."
+  },
+  "Thanks for signing up to SpringboardVR, you're one step closer to simplifying the management of your arcade!": {
+    "message": "Danke, dass Sie sich bei SpringboardVR angemeldet haben, Sie sind einen Schritt weiter bei der Vereinfachung der Verwaltung Ihres Arcades!"
+  },
+  "Thanks for subscribing!": {
+    "message": "Danke für Ihr Abonnement!"
+  },
+  "Thanks for your booking with :organization_name on :time.": {
+    "message": "Danke für Ihre Reservierung bei :organization_name um :time."
+  },
+  "That station is already up to date": {
+    "message": "Diese Station ist bereits auf dem neuesten Stand"
+  },
+  "The arcade is no longer open at this time": {
+    "message": "Das Arcade ist zu dieser Uhrzeit nicht mehr geöffnet"
+  },
+  "The booking has been cancelled.": {
+    "message": "Die Reservierung wurde storniert."
+  },
+  "The email address must be linked to a user within your organization": {
+    "message": "Die E-Mail-Adresse muss mit einem Benutzer aus Ihrer Organisation verbunden sein"
+  },
+  "The location is not open on this date": {
+    "message": "Der Standort ist an diesem Datum nicht geöffnet"
+  },
+  "The players have read and agree to the {0} and {1}": {
+    "message": "Die Spieler haben {0} und {1} gelesen und akzeptieren diese."
+  },
+  "The selected date period is too long for this data set!": {
+    "message": "Der ausgewählte Zeitraum ist zu groß für diesen Datensatz!"
+  },
+  "The video conversion for :title did not complete successfully. Please try again.": {
+    "message": "Die Video-Konvertierung für :title wurde nicht erfolgreich abgeschlossen. Bitte versuchen Sie es erneut."
+  },
+  "The video conversion for :title has completed successfully": {
+    "message": "Die Video-Konvertierung für :title wurde erfolgreich abgeschlossen"
+  },
+  "There is bookings that we can't reallocate off of :name. You must manually reallocate these bookings.": {
+    "message": "Es gibt Reservierungen, die wir nicht weg von :name neu zuordnen können. Sie müssen diese Reservierungen manuell neu zuordnen."
+  },
+  "There is not enough stations available to make this booking": {
+    "message": "Es gibt nicht genug verfügbare Stationen um diese Reservierung zu machen"
+  },
+  "There was an issue adding your card": {
+    "message": "Es gab ein Problem beim Hinzufügen Ihrer Karte"
+  },
+  "There was an issue logging in, please try again": {
+    "message": "Es gab ein Problem beim Einloggen, bitte versuchen Sie es erneut"
+  },
+  "There was an issue with your payment, please try again": {
+    "message": "Es gab ein Problem mit Ihrer Zahlung, bitte versuchen Sie es erneut"
+  },
+  "This account is currently inactive": {
+    "message": "Dieses Benutzerkonto ist zurzeit inaktiv"
+  },
+  "This booking is non-refundable": {
+    "message": "Diese Reservierung ist nicht erstattbar"
+  },
+  "This booking is not possible, there isn't enough stations available": {
+    "message": "Diese Reservierung ist nicht möglich, da nicht genug Stationen verfügbar sind"
+  },
+  "This client has a card on file and it will be automatically billed for the extension.": {
+    "message": "Dieser Kunde hat eine Karte hinterlegt und diese wird automatisch für die Verlängerung belastet."
+  },
+  "This is not a global admin endpoint!": {
+    "message": "Dies ist kein globaler Admin-Endpunkt!"
+  },
+  "This OAuth Provider doesn't exist": {
+    "message": "Dieser OAuth-Anbieter existiert nicht"
+  },
+  "This organisation has no users with access to all locations to use the link details of": {
+    "message": "Diese Organisation hat keine Benutzer, die Zugriff auf alle Standorte haben, um die folgenden Link-Details benutzen zu können:"
+  },
+  "This organisation is currently suspended": {
+    "message": "Diese Organisation ist zur Zeit gesperrt"
+  },
+  "This provider doesn't exist": {
+    "message": "Dieser Anbieter existiert nicht"
+  },
+  "This will cancel your booking.": {
+    "message": "Hiermit wird Ihre Reservierung storniert."
+  },
+  "This will delete the customer's booking": {
+    "message": "Die Reservierung des Kunden wird hiermit gelöscht"
+  },
+  "Time": {
+    "message": "Zeit"
+  },
+  "Time of Booking": {
+    "message": "Reservierungszeit"
+  },
+  "Time Remaining": {
+    "message": "Verbleibende Zeit"
+  },
+  "Time's almost up!\n:minutes::seconds minutes remaining.": {
+    "message": "Zeit fast vorbei!\n:minutes::seconds Minuten verbleiben."
+  },
+  "Time's Up!": {
+    "message": "Zeit vorbei!"
+  },
+  "Today": {
+    "message": "Heute"
+  },
+  "Total Extension": {
+    "message": "Gesamte Verlängerung"
+  },
+  "Uh oh. Looks like your widget is invalid.": {
+    "message": "Hoppla. Es sieht aus als wäre Ihr Widget ungültig."
+  },
+  "User": {
+    "message": "Benutzer"
+  },
+  "User not found": {
+    "message": "Benutzer nicht gefunden"
+  },
+  "validation.accepted": {
+    "message": ":attribute muss akzeptiert sein."
+  },
+  "validation.active_url": {
+    "message": ":attribute ist keine gültige URL."
+  },
+  "validation.after": {
+    "message": ":attribute muss ein Datum nach :date sein."
+  },
+  "validation.after_or_equal": {
+    "message": ":attribute muss ein Datum nach oder gleich zu :date sein."
+  },
+  "validation.alpha": {
+    "message": ":attribute darf nur Buchstaben enthalten."
+  },
+  "validation.alpha_dash": {
+    "message": ":attribute darf nur Buchstaben, Zahlen und Bindestriche enthalten."
+  },
+  "validation.alpha_num": {
+    "message": ":attribute darf nur Buchstaben und Zahlen enthalten."
+  },
+  "validation.array": {
+    "message": ":attribute muss ein Feld sein."
+  },
+  "validation.before": {
+    "message": ":attribute muss ein Datum vor :date sein."
+  },
+  "validation.before_or_equal": {
+    "message": ":attribute muss ein Datum vor oder gleich zu :date sein."
+  },
+  "validation.between.array": {
+    "message": ":attribute muss zwischen :min und :max Einträge haben."
+  },
+  "validation.between.file": {
+    "message": ":attribute muss zwischen :min und :max Kilobytes sein."
+  },
+  "validation.between.numeric": {
+    "message": ":attribute muss zwischen :min und :max sein."
+  },
+  "validation.between.string": {
+    "message": ":attribute muss zwischen :min und :max Zeichen haben."
+  },
+  "validation.boolean": {
+    "message": ":attribute Datenfeld muss wahr oder falsch sein."
+  },
+  "validation.confirmed": {
+    "message": "Die :attribute Bestätigung stimmt nicht überein."
+  },
+  "validation.date": {
+    "message": ":attribute ist kein gültiges Datum."
+  },
+  "validation.date_format": {
+    "message": ":attribute passt nicht zum Format :format."
+  },
+  "validation.different": {
+    "message": ":attribute und :other müssen unterschiedlich sein."
+  },
+  "validation.digits": {
+    "message": ":attribute muss :digits Ziffern haben."
+  },
+  "validation.digits_between": {
+    "message": ":attribute muss zwischen :min und :max Ziffern haben."
+  },
+  "validation.dimensions": {
+    "message": ":attribute hat ungültige Bild-Abmessungen."
+  },
+  "validation.distinct": {
+    "message": ":attribute Datenfeld hat einen doppelten Wert."
+  },
+  "validation.email": {
+    "message": ":attribute muss eine gültige E-Mail-Adresse sein."
+  },
+  "validation.exists": {
+    "message": "Das ausgewählte :attribute ist ungültig."
+  },
+  "validation.file": {
+    "message": ":attribute muss eine Datei sein."
+  },
+  "validation.filled": {
+    "message": ":attribute Datenfeld muss einen Wert haben."
+  },
+  "validation.image": {
+    "message": ":attribute muss ein Bild sein."
+  },
+  "validation.in": {
+    "message": "Das ausgewählte :attribute ist ungültig."
+  },
+  "validation.integer": {
+    "message": ":attribute muss eine ganze Zahl sein."
+  },
+  "validation.in_array": {
+    "message": ":attribute Datenfeld existiert nicht in :other."
+  },
+  "validation.ip": {
+    "message": ":attribute muss eine gültige IP-Adresse sein."
+  },
+  "validation.ipv4": {
+    "message": ":attribute muss eine gültige IPv4-Adresse sein."
+  },
+  "validation.ipv6": {
+    "message": ":attribute muss eine gültige IPv6-Adresse sein."
+  },
+  "validation.json": {
+    "message": ":attribute muss eine gültige JSON-Zeichenkette sein."
+  },
+  "validation.max.array": {
+    "message": ":attribute darf nicht mehr als :max Einträge haben."
+  },
+  "validation.max.file": {
+    "message": ":attribute darf nicht größer als :max Kilobytes sein."
+  },
+  "validation.max.numeric": {
+    "message": ":attribute darf nicht größer als :max sein."
+  },
+  "validation.max.string": {
+    "message": ":attribute darf nicht größer als :max Zeichen sein."
+  },
+  "validation.mimes": {
+    "message": ":attribute muss eine Datei vom Typ :values sein."
+  },
+  "validation.mimetypes": {
+    "message": ":attribute muss eine Datei vom Typ :values sein."
+  },
+  "validation.min.array": {
+    "message": ":attribute muss mindestens :min Einträge haben."
+  },
+  "validation.min.file": {
+    "message": ":attribute muss mindestens :min Kilobytes sein."
+  },
+  "validation.min.numeric": {
+    "message": ":attribute muss mindestens :min sein."
+  },
+  "validation.min.string": {
+    "message": ":attribute muss mindestens :min Zeichen haben."
+  },
+  "validation.not_in": {
+    "message": "Das ausgewählte :attribute ist ungültig."
+  },
+  "validation.numeric": {
+    "message": ":attribute muss eine Zahl sein."
+  },
+  "validation.present": {
+    "message": ":attribute Datenfeld muss existieren."
+  },
+  "validation.regex": {
+    "message": ":attribute Format ist ungültig."
+  },
+  "validation.required": {
+    "message": ":attribute Datenfeld wird benötigt."
+  },
+  "validation.required_if": {
+    "message": ":attribute Datenfeld wird benötigt, wenn :other gleich :value ist."
+  },
+  "validation.required_unless": {
+    "message": ":attribute Datenfeld wird benötigt, es sei denn :other ist ein Eintrag aus :values."
+  },
+  "validation.required_with": {
+    "message": ":attribute Datenfeld wird benötigt, wenn :values existiert."
+  },
+  "validation.required_without": {
+    "message": ":attribute Datenfeld wird benötigt, wenn :values nicht existiert."
+  },
+  "validation.required_without_all": {
+    "message": ":attribute Datenfeld wird benötigt, wenn keine der Einträge aus :values existiert."
+  },
+  "validation.required_with_all": {
+    "message": ":attribute Datenfeld wird benötigt, wenn :values existiert."
+  },
+  "validation.same": {
+    "message": ":attribute und :other müssen übereinstimmen."
+  },
+  "validation.size.array": {
+    "message": ":attribute muss :size Einträge haben."
+  },
+  "validation.size.file": {
+    "message": ":attribute muss :size Kilobytes groß sein."
+  },
+  "validation.size.numeric": {
+    "message": ":attribute muss :size groß sein."
+  },
+  "validation.size.string": {
+    "message": ":attribute muss :size Zeichen haben."
+  },
+  "validation.string": {
+    "message": ":attribute muss eine Zeichenkette sein."
+  },
+  "validation.timezone": {
+    "message": ":attribute muss eine gültige Zone sein."
+  },
+  "validation.unique": {
+    "message": ":attribute wurde bereits vergeben."
+  },
+  "validation.uploaded": {
+    "message": ":attribute konnte nicht hochgeladen werden."
+  },
+  "validation.url": {
+    "message": ":attribute Format ist ungültig."
+  },
+  "Verify Account": {
+    "message": "Benutzerkonto verifizieren"
+  },
+  "Video Conversion Failed for :title": {
+    "message": "Video-Konvertierung für :title fehlgeschlagen"
+  },
+  "Video Converted": {
+    "message": "Video konvertiert"
+  },
+  "We can accommodate up to {0} people per station, and up to {1} stations max": {
+    "message": "Wir haben Platz für bis zu {0} Personen pro Station und bis zu {1} Stationen maximal"
+  },
+  "We don't have an updater build online right now, please try again in a little while": {
+    "message": "Wir haben zur Zeit keinen Updater-Build online verfügbar, bitte versuchen Sie es später noch einmal"
+  },
+  "We have released a new update: :version": {
+    "message": "Wir haben ein Update veröffentlicht: :version"
+  },
+  "We have released an update to the SpringboardVR launcher! You can auto-update your stations via the button below, though as always we recommend reading the <a href=\":url\">Release Notes</a> before doing so!": {
+    "message": "Wir haben ein Update für den SpringboardVR-Launcher veröffentlicht! Sie können Ihre Stationen automatisch über den unteren Button aktualisieren, aber wie immer empfehlen wir die <a href=\":url\">Release Notes</a> zu lesen bevor Sie dies tun!"
+  },
+  "We have successfully updated your billing details, which will now be used for all future payments.": {
+    "message": "Wir haben Ihre Zahlungsinformationen erfolgreich aktualisiert, die jetzt für alle zukünftigen Zahlungen verwendet werden."
+  },
+  "We're not using pusher right now.": {
+    "message": "Wir benutzen Pusher gerade nicht."
+  },
+  "Week": {
+    "message": "Woche"
+  },
+  "Woah there! You're trying to make a global admin request while not in the global admin. That could get messy.": {
+    "message": "Aufgepasst! Sie versuchen eine globale Admin-Anfrage zu machen, während Sie nicht globaler Admin sind. Das könnte chaotisch werden."
+  },
+  "Woah there! You're trying to make an arcade-level request while not logged into an arcade's admin. That could get messy.": {
+    "message": "Aufgepasst! Sie versuchen eine Arcade-Anfrage zu machen, während Sie nicht als ein Arcade-Admin eingeloggt sind. Das könnte chaotisch werden."
+  },
+  "You are able to contact :organization_name with the following information": {
+    "message": "Sie können :organization_name mit den folgenden Informationen kontaktieren"
+  },
+  "You are not eligible to receive a refund for this booking": {
+    "message": "Sie sind nicht berechtigt eine Erstattung für diese Reservierung zu erhalten"
+  },
+  "You are only allowed :per_station people per station": {
+    "message": "Es sind maximal :per_station Personen pro Station erlaubt"
+  },
+  "You cannot delete a notification that has already been sent!": {
+    "message": "Sie können keine bereits versendete Benachrichtigung löschen!"
+  },
+  "You cannot reduce your subscription below your current number of active stations. Please delete some stations before proceeding.": {
+    "message": "Sie können Ihr Abonnement nicht unter Ihre aktuelle Stationsanzahl senken. Bitte entfernen Sie einige Stationen bevor Sie fortfahren."
+  },
+  "You do not have permission to access this page.": {
+    "message": "Sie haben keine Berechtigung auf diese Seite zu zugreifen."
+  },
+  "You have a new invoice": {
+    "message": "Sie haben eine neue Rechnung"
+  },
+  "You may not access that channel": {
+    "message": "Sie dürfen nicht auf diesen Channel zugreifen"
+  },
+  "You need to select a tenancy organization as a global admin": {
+    "message": "Sie müssen als globaler Admin eine Miet-Organisation auswählen"
+  },
+  "You will receive a full refund.": {
+    "message": "Sie erhalten eine vollständige Erstattung."
+  },
+  "Your Billing Details have been updated": {
+    "message": "Ihre Zahlungsinformationen wurden aktualisiert"
+  },
+  "Your booking has invalid settings": {
+    "message": "Ihre Reservierung hat ungültige Einstellungen"
+  },
+  "Your booking with :organization_name has been cancelled.": {
+    "message": "Ihre Reservierung bei :organization_name wurde storniert."
+  },
+  "Your booking with :organization_name has been updated.": {
+    "message": "Ihre Reservierung bei :organization_name wurde aktualisiert."
+  },
+  "Your card could not be charged": {
+    "message": "Ihre Karte konnte nicht belastet werden"
+  },
+  "Your card details have been saved and your subscription is ready. You will be charged at the end of your trial period on :trial_ends_at and can increase the number of stations on your subscription from the billing details view.<br><br><a href=\":invoice_url\">here</a> to view your upcoming invoices.": {
+    "message": "Ihre Kartendaten wurden gespeichert und Ihr Abonnement ist bereit. Ihre Zahlungsinformationen werden am Ende des Testzeitraums am :trial_ends_at belastet und Sie können dann die Anzahl der Stationen in Ihrem Abonnement über die Zahlungsinformationsansicht erhöhen.<br><br>Klicken Sie <a href=\":invoice_url\">hier</a> um Ihre bevorstehenden Rechnungen zu sehen."
+  },
+  "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.": {
+    "message": "Ihre letzte Rechnung ist jetzt <a href=\":invoice_url\">hier</a> zur Ansicht verfügbar. Wir werden versuchen Ihre Karte automatisch für eventuell offene Beträge zu belasten und benachrichtigen Sie, falls die Zahlung nicht erfolgreich ist."
+  },
+  "Your login details are invalid": {
+    "message": "Ihre Login-Details sind ungültig"
+  },
+  "Your Oauth State is Invalid": {
+    "message": "Ihr Oauth-Status ist ungültig"
+  },
+  "Your Party": {
+    "message": "Deine Gruppe"
+  },
+  "ZIP/Postal Code": {
+    "message": "Postleitzahl"
+  }
+}
