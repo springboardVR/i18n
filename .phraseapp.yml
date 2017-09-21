@@ -3,7 +3,7 @@ phraseapp:
   project_id: e3f3231e54313746315deacf9f11dd9d
   push:
     sources:
-    - file: ./*.json
+    - file: ./<locale_code>.json
       params:
         file_format: simple_json
   pull:
