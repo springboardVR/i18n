@@ -394,6 +394,5 @@
   "Your login details are invalid": "Ihre Login-Details sind ungültig",
   "Your Oauth State is Invalid": "Ihr Oauth-Status ist ungültig",
   "Your Party": "Deine Gruppe",
-  "ZIP/Postal Code": "Postleitzahl",
-  "_COMMENT": "BOOKINGEXPORTCONTROLLER.PHP"
+  "ZIP/Postal Code": "Postleitzahl"
 }
