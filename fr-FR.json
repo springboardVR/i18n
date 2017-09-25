@@ -380,6 +380,5 @@
   "Your login details are invalid": "Vos informations de connexion sont erronés",
   "Your Oauth State is Invalid": "Ce Oauth Statut n’est pas valide",
   "Your Party": "Votre Groupe",
-  "ZIP/Postal Code": "Code Postal",
-  "_COMMENT": "ABORT BOOKABLE.PHP"
+  "ZIP/Postal Code": "Code Postal"
 }
