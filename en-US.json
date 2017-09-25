@@ -402,6 +402,5 @@
   "Your login details are invalid": "Your login details are invalid",
   "Your Oauth State is Invalid": "Your Oauth State is Invalid",
   "Your Party": "Your Party",
-  "ZIP/Postal Code": "ZIP/Postal Code",
-  "_COMMENT": "BOOKINGEXPORTCONTROLLER.PHP"
+  "ZIP/Postal Code": "ZIP/Postal Code"
 }
