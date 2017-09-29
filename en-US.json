@@ -32,6 +32,7 @@
   "auth.failed": "These credentials do not match our records.",
   "auth.throttle": "Too many login attempts. Please try again in :seconds seconds.",
   "Auto-Select Stations": "Auto-Select Stations",
+  "Back online.": "Back online.",
   "Back to Arcade": "Back to Arcade",
   "Back to Old Monitor": "Back to Old Monitor",
   "Back To Stations": "Back To Stations",
@@ -70,6 +71,7 @@
   "Continue, but don't send email": "Continue, but don't send email",
   "Cost": "Cost",
   "Could not find game": "Could not find game",
+  "Coupon": "Coupon",
   "Created by Admin User": "Created by Admin User",
   "Created through Booking Widget": "Created through Booking Widget",
   "Credit Card Number": "Credit Card Number",
@@ -84,6 +86,7 @@
   "Date": "Date",
   "Day": "Day",
   "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station": "Deleting this station would modify your subscription plan, but you do not have permission to edit billing details. Please ask an arcade administrator to delete this station",
+  "Discount": "Discount",
   "Don't have  an account? {0}": "Don't have an account? {0}",
   "Don't have  an account? {register}": "Don't have an account? {register}",
   "due to :reason": "due to :reason",
@@ -175,6 +178,8 @@
   "Next Page": "Next",
   "No Active Organization": "No Active Organization",
   "No build found": "No build found",
+  "No Coupon": "No Coupon",
+  "No Discount": "No Discount",
   "No games found using the selected filters": "No games found using the selected filters",
   "No games you can join are currently being played by other people in your booking": "No games you can join are currently being played by other people in your booking",
   "No games you can join are currently being played in this arcade": "No games you can join are currently being played in this arcade",
@@ -408,5 +413,7 @@
   "Your login details are invalid": "Your login details are invalid",
   "Your Oauth State is Invalid": "Your Oauth State is Invalid",
   "Your Party": "Your Party",
-  "ZIP/Postal Code": "ZIP/Postal Code"
+  "ZIP/Postal Code": "ZIP/Postal Code",
+  "{amount} off with coupon {coupon}": "{amount} off with coupon {coupon}",
+  "{amount} off with discount {discount}": "{amount} off with discount {discount}"
 }
