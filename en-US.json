@@ -23,7 +23,7 @@
   "Add Time": "Add Time",
   "Additional Instructions": "Additional Instructions",
   "Address": "Address",
-  "Address 2 ": "Address 2",
+  "Address 2": "Address 2",
   "Admin": "Admin",
   "Admin users must have a tenant organisation selected": "Admin users must have a tenant organisation selected",
   "Age Limit:": "Age Limit:",
@@ -495,7 +495,7 @@
   "Your login is invalid": "Your login is invalid",
   "Your Oauth State is Invalid": "Your Oauth State is Invalid",
   "Your Party": "Your Party",
-  "Your tax form has been approved! If you have any changes to your tax status please {contact}": "Your tax form has been approved! If you have any changes to your tax status please {contact}",
+  "Your tax form has been approved! If you have any changes to your tax status please {0}": "Your tax form has been approved! If you have any changes to your tax status please {0}",
   "ZIP/Postal Code": "ZIP/Postal Code",
   "{amount} off with coupon {coupon}": "{amount} off with coupon {coupon}",
   "{amount} off with discount {discount}": "{amount} off with discount {discount}"
