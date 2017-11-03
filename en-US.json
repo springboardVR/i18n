@@ -117,11 +117,7 @@
   "First Name": "First Name",
   "Forgot Password?": "Forgot Password?",
   "French": "French",
-  "game added": {
-    "one": "game added",
-    "other": "games added",
-    "zero": "games added"
-  },
+  "game added | games added": "game added | games added",
   "Game Controls": "Game Controls",
   "Game could not be found": "Game could not be found",
   "Game not found": "Game not found",
