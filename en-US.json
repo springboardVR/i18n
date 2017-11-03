@@ -283,7 +283,7 @@
   "Preset could not be found": "Preset could not be found",
   "Previous page": "Prev",
   "Price": "Price",
-  "Price changing in {days}": "Price changing in {days}",
+  "Price changing {days}": "Price changing {days}",
   "Price decreases will take effect immediately.": "Price decreases will take effect immediately.",
   "Price increases will come into effect on {date}.": "Price increases will come into effect on {date}.",
   "Price Per Minute": "Price Per Minute",
