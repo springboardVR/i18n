@@ -14,3 +14,4 @@ Vuei18n likes
 ```json
 "We can accomodate up to {0} people per station, and up to {1} stations max": "We can accomodate up to {0} people per station, and up to {1} stations max",
 ```
+ 
