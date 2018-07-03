@@ -1,7 +1,7 @@
 {
   "* Required Fields": "* Vaaditut kentät",
   "+1 123-456-7890": "+358 123 456 7890",
-  "1 Player per station | {count} Players can share a station": "Yksi pelaaja asemaa kohti | {lukumäärä} pelaajaa voi jakaa aseman",
+  "1 Player per station | {count} Players can share a station": "Yksi pelaaja asemaa kohti | {count} pelaajaa voi jakaa aseman",
   "16:9 ratio recommended": "Suositeltu suhde 16:9",
   "3 Day Trial Expiration Notice": "3 päivää testiajan päättymiseen ilmoitus",
   "460px By 215px Suggested": "Suositus 460px kertaa 215px",
@@ -786,7 +786,7 @@
   "Step 2": "Vaihe 2",
   "Step 2: Upload Keys": "Vaihe 2: Toimita avaimet",
   "Step 3": "Vaihe 3",
-  "Step {currentStep} of {stepsLength}": "Kohta {nykyinenKohta} / {kohtienMäärä}",
+  "Step {currentStep} of {stepsLength}": "Kohta {currentStep} / {stepsLength}",
   "Still having issues? Email our support team at": "Kärsitkö yhä ongelmista? Lähetä sähköpostia tukiryhmällemme osoitteeseen",
   "Submit": "Lähetä",
   "Subscription has expired": "Tilaus on vanhentunut",
