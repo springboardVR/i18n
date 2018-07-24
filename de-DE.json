@@ -914,6 +914,7 @@
   "Time": "Zeit",
   "Time Ended": "Zeit abgelaufen",
   "Time Format": "Zeitformat",
+  "Time is up!": "Zeit ist abgelaufen!",
   "Time of Booking": "Reservierungszeit",
   "Time Remaining": "Verbleibende Zeit",
   "Time remaining": "Verbleibende Zeit",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "Ihr Steuerformular wurde bestätigt! Falls sich an Ihrem Steuerstatus irgendetwas ändert, bitte {0}",
   "ZIP/Postal Code": "Postleitzahl",
   "{amount} off with coupon {coupon}": "{amount} reduziert mit Gutschein {coupon}",
-  "{amount} off with discount {discount}": "{amount} reduziert mit Rabatt {discount}"
+  "{amount} off with discount {discount}": "{amount} reduziert mit Rabatt {discount}",
+  "{count} min were added to your station!": "{count} Minuten wurden deiner Station hinzugefügt!"
 }
