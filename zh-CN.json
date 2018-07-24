@@ -914,6 +914,7 @@
   "Time": "时间",
   "Time Ended": "结束时间",
   "Time Format": "时间格式",
+  "Time is up!": "时间到了！",
   "Time of Booking": "预订时间",
   "Time Remaining": "剩余时间",
   "Time remaining": "剩余时间",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "您的纳税表格已批准！如果您要对您的纳税身份做如何修改，请 {0}",
   "ZIP/Postal Code": "邮编",
   "{amount} off with coupon {coupon}": "使用优惠券｛优惠券｝享受优惠｛金额｝",
-  "{amount} off with discount {discount}": "使用｛折扣｝享受优惠｛金额｝"
+  "{amount} off with discount {discount}": "使用｛折扣｝享受优惠｛金额｝",
+  "{count} min were added to your station!": "已经为您的电台加了 {count} 分钟！"
 }
