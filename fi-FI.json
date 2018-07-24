@@ -914,6 +914,7 @@
   "Time": "Aika",
   "Time Ended": "Päättymisaika",
   "Time Format": "Aikaformaatti",
+  "Time is up!": "Aika loppui!",
   "Time of Booking": "Varauksen ajankohta",
   "Time Remaining": "Aikaa jäljellä",
   "Time remaining": "Aikaa jäljellä",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "Sinun verolomakkesi on hyväksytty! Jos sinulla on jotain muutoksia vero tietoihin ole hyvä ja {0}",
   "ZIP/Postal Code": "Postinumero",
   "{amount} off with coupon {coupon}": "{amount} alennusta koodilla {coupon}",
-  "{amount} off with discount {discount}": "{amount} pois hinnasta {discount} allenuksella"
+  "{amount} off with discount {discount}": "{amount} pois hinnasta {discount} allenuksella",
+  "{count} min were added to your station!": "{count} minuuttia lisättiin asemaasi!"
 }

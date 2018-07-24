@@ -914,6 +914,7 @@
   "Time": "Idő",
   "Time Ended": "Lejárt az idő",
   "Time Format": "Idő formátum",
+  "Time is up!": "Az idő lejárt!",
   "Time of Booking": "Foglalás ideje",
   "Time Remaining": "Hátralévő idő",
   "Time remaining": "Hátralévő idő",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "Adózási formád megerősítve! Ha bármilyen változás van az adózási státuszoddal kapcsolatban kérlek {0}",
   "ZIP/Postal Code": "ZIP kód/Irányítószám",
   "{amount} off with coupon {coupon}": "{amount} kevesebb a kuponnal {coupon}",
-  "{amount} off with discount {discount}": "{amount} árengedmény {discount}"
+  "{amount} off with discount {discount}": "{amount} árengedmény {discount}",
+  "{count} min were added to your station!": "{count} perc hozzáadódott állomásodhoz!"
 }

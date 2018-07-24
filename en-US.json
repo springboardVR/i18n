@@ -914,6 +914,7 @@
   "Time": "Time",
   "Time Ended": "Time Ended",
   "Time Format": "Time Format",
+  "Time is up!": "Time is up!",
   "Time of Booking": "Time of Booking",
   "Time Remaining": "Time Remaining",
   "Time remaining": "Time remaining",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "Your tax form has been approved! If you have any changes to your tax status please {0}",
   "ZIP/Postal Code": "ZIP/Postal Code",
   "{amount} off with coupon {coupon}": "{amount} off with coupon {coupon}",
-  "{amount} off with discount {discount}": "{amount} off with discount {discount}"
+  "{amount} off with discount {discount}": "{amount} off with discount {discount}",
+  "{count} min were added to your station!": "{count} min were added to your station!"
 }
