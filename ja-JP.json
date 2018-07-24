@@ -914,6 +914,7 @@
   "Time": "時間",
   "Time Ended": "終了時間",
   "Time Format": "時間のフォーマット",
+  "Time is up!": "時間切れです！",
   "Time of Booking": "予約の時間",
   "Time Remaining": "残り時間",
   "Time remaining": "残り時間",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "あなたの納税申告書が承認されました！ 納税ステータスを変更した場合は、こちらをご確認ください。{0}",
   "ZIP/Postal Code": "郵便番号",
   "{amount} off with coupon {coupon}": "{coupon}クーポンによる{amount}の値引き",
-  "{amount} off with discount {discount}": "{discount}ディスカウントによる{amount}の値引き"
+  "{amount} off with discount {discount}": "{discount}ディスカウントによる{amount}の値引き",
+  "{count} min were added to your station!": "{数}分が、ステーションに追加されました！"
 }
