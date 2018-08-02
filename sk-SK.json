@@ -914,6 +914,7 @@
   "Time": "Čas",
   "Time Ended": "Čas bol ukončený",
   "Time Format": "Formát času",
+  "Time is up!": "Čas vypršal!",
   "Time of Booking": "Čas rezervácie",
   "Time Remaining": "Zostávajúci Čas",
   "Time remaining": "Zostávajúci čas",
@@ -1120,5 +1121,6 @@
   "Your tax form has been approved! If you have any changes to your tax status please {0}": "Váš daňový formulár bol schválený! Ak máte akékoľvek zmeny v daňovom stave, prosím {0}",
   "ZIP/Postal Code": "Poštové smerové číslo",
   "{amount} off with coupon {coupon}": "{amount} zľava s kupónom {coupon}",
-  "{amount} off with discount {discount}": "{amount} so zľavou {discount}"
+  "{amount} off with discount {discount}": "{amount} so zľavou {discount}",
+  "{count} min were added to your station!": "pridelili sme {count} minút do vašej stanice!"
 }
