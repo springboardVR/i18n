@@ -939,6 +939,7 @@
   "This booking is not possible, there isn't enough stations available": "This booking is not possible, there isn't enough stations available",
   "This booking widget is invalid. Please try again later.": "This booking widget is invalid. Please try again later.",
   "This client has a card on file and it will be automatically billed for the extension.": "This client has a card on file and it will be automatically billed for the extension.",
+  "This content is deactivating on {deactivationDate}": "This content is deactivating on {deactivationDate}",
   "This game is deactivating on {deactivationDate}": "This game is deactivating on {deactivationDate}",
   "This game wasn’t available on SpringboardVR at the time you selected.": "This game wasn’t available on SpringboardVR at the time you selected.",
   "This is a preview of what your customers would see. The button is against white in SpringboardVR reservation application.": "This is a preview of what your customers would see. The button is against white in SpringboardVR reservation application.",
