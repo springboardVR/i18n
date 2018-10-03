@@ -7,11 +7,11 @@ Eventually we hope to build this out as an easy way to manage and output .json f
 
 Laravel likes
 ```json
-"We can accomodate up to :num_people people per station, and up to :num_stations stations max": "We can accomodate up to :num_people people per station, and up to :num_stations stations max",
+"We can accommodate up to :num_people people per station, and up to :num_stations stations max": "We can accommodate up to :num_people people per station, and up to :num_stations stations max",
 ```
 
 Vuei18n likes
 ```json
-"We can accomodate up to {0} people per station, and up to {1} stations max": "We can accomodate up to {0} people per station, and up to {1} stations max",
+"We can accommodate up to {0} people per station, and up to {1} stations max": "We can accommodate up to {0} people per station, and up to {1} stations max",
 ```
  
