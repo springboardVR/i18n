@@ -1276,6 +1276,7 @@
   "Your Invoice History": "Your Invoice History",
   "Your last payment failed. Please fix this issue within 48 hours or your account will be suspended.": "Your last payment failed. Please fix this issue within 48 hours or your account will be suspended.",
   "Your last payment failed. Please update your credit card information within 48 hours.": "Your last payment failed. Please update your credit card information within 48 hours.",
+  "Your last payment failed. {readmore}": "Your last payment failed. {readmore}",
   "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.": "Your latest invoice is now available to view <a href=\":invoice_url\">here</a>. We will attempt to charge your card automatically for any balance due, and notify you in the event that payment cannot be taken.",
   "Your license will activate": "Your license will activate",
   "Your location is required to have a name and an address. Customers will use this information to find and contact your location.": "Your location is required to have a name and an address. Customers will use this information to find and contact your location.",
